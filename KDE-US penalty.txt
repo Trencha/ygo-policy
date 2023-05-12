@@ -1,0 +1,624 @@
+Konami Digital Entertainment, Inc. (KDE-US) Official KDE-US Tournament Infractions and Penalties Policy In Effect as of March 6th, 2023
+The KDE-US Tournament Infractions and Penalties Policy contains information to be used during all Sanctioned and/or Official KONAMI Yu-Gi-Oh! tournaments.
+This document, used in addition to the Official KDE-US Yu-Gi-Oh! TRADING CARD GAME Tournament Policy document:
+• Outlines the appropriate code of behavior for persons at a tournament.
+• Instructs judges and tournament officials how to identify infractions and assign correct penalties.
+• Helps ensure a fair and consistent tournament experience, by explaining the various types of infractions along with the penalties assigned to each infraction.
+All persons present at a tournament, including but not limited to, Duelists, spectators, judges, and tournament officials, are expected to abide by the policies outlined below.
+It is your responsibility to learn this information prior to attending a tournament.
+If KDE-US determines that you have violated its Tournament Infractions and Penalties Policy, you will be added to our public Suspended Players List, which is found at the link below.
+Tournament Policy documents will be updated. The most current versions of all Tournament Policy documents can be found here:
+Region Link
+North America
+https://www.yugioh-card.com/en/events/organizedplay/
+Latin America & the Caribbean
+https://www.yugioh-card.com/lat-am/events/organizedplay.html
+For questions please email us-opsupport@konami.com (North America) or la-opsupport@konami.com (Latin America and the Caribbean).
+Table of Contents
+I. Philosophy ............................................................................................................................................. 4
+A. Persons Attending a Tournament ...................................................................................................... 6
+B. Judges ................................................................................................................................................. 6
+II. Investigation Procedure ........................................................................................................................ 7
+A. Infractions and Penalties .................................................................................................................... 7
+B. Determining an Infraction .................................................................................................................. 7
+C. Applying the Penalty .......................................................................................................................... 7
+D. Reporting Penalties ............................................................................................................................ 8
+E. Time Extensions ................................................................................................................................. 9
+F. Game State………………………………….……………………………………………………………………………………………….9
+III. Penalties .......................................................................................................................................... 13
+A. Warning ............................................................................................................................................ 13
+B. Game Loss ........................................................................................................................................ 13
+C. Match Loss ....................................................................................................................................... 13
+D. Disqualification ................................................................................................................................. 14
+E. Upgrading and Downgrading Penalties ............................................................................................ 16
+IV. Infractions ........................................................................................................................................ 17
+A. Severity ............................................................................................................................................. 17
+B. Procedural Error (PE) ........................................................................................................................ 17
+1. PE – Minor: (Warning) .................................................................................................................. 18
+2. PE – Major: (Game Loss) .............................................................................................................. 18
+3. PE –Strict: (Match Loss) ................................................................................................................ 19
+C. Tardiness (T) ..................................................................................................................................... 19
+1. T – Major: (Game Loss) ................................................................................................................ 19
+2. T – Strict: (Match Loss) ................................................................................................................. 19
+D. Deck and Deck List Errors (DE) ......................................................................................................... 20
+1. DE – Minor: (Warning) ................................................................................................................. 20
+2. DE – Major: (Game Loss) .............................................................................................................. 20
+E. Drawing Extra Cards (DC) ................................................................................................................. 22
+1. DC – Minor: (Warning) ................................................................................................................. 22
+2. DC – Major: (Game Loss) .............................................................................................................. 23
+F. Marked Cards (MC) .......................................................................................................................... 23
+1. MC –Minor: (Warning) ................................................................................................................. 24
+2. MC –Major: (Game Loss) .............................................................................................................. 24
+3. MC –Strict: (Match Loss) .............................................................................................................. 25
+G. Slow Play (SP) ................................................................................................................................... 25
+1. SP –Minor: (Warning) ................................................................................................................... 26
+H. Unsporting Conduct (UC) ................................................................................................................. 27
+1. UC –Minor: (Warning) .................................................................................................................. 27
+2. UC –Major: (Game Loss)............................................................................................................... 28
+3. UC –Severe: (Disqualification) ...................................................................................................... 28
+4. UC—Cheating: (Disqualification) .................................................................................................. 29
+V. Disqualification Review ....................................................................................................................... 30
+VI. Suspension and Suspended Persons ............................................................................................... 31
+A. Suspension for Infractions Occurring at Sanctioned Events ............................................................ 31
+B. Suspension for Infractions Outside of Sanctioned or Official Events .............................................. 31
+VII. Contact Information ........................................................................................................................ 32
+I. Philosophy
+All persons at a Sanctioned or Official tournament share the responsibility for maintaining a fair and consistent event, by understanding and adhering to their roles in the tournament.
+Official Policy documents (both Tournament Policy and Penalties Policy) are intended to educate all persons on correct and expected behavior at tournaments. Official Policy documents may not serve as a resource for persons to attempt to take advantage of one another through “rule-sharking”, or otherwise attempting to influence the decisions of judges or tournament officials.
+• “Rule-sharking” is defined as “using rules and policy in an attempt to gain an advantage, instead of to ensure fair and consistent gameplay.”
+• Rule-sharking is considered an Unsporting Conduct – Minor infraction. Please see sections I:A and IV: H-1 of this document for more information.
+Tier 1 tournaments are designed for more casual play, and should provide an instructive, enjoyable atmosphere. These tournaments should function as a learning experience, but that does not mean that penalties should not be enforced, or that infractions have to be downgraded.
+• Rules and tournament policy are equally important at the Tier 1 level and should be enforced.
+In addition to enforcing rules and policy, judges and/or other tournament officials should take time to educate persons attending the tournament about mistakes or infractions, so they learn correct policy.
+Duelists participating in tournaments in all Tiers (including Tier 1) are expected to comply with rules and tournament policies. If a Duelist or a person at a tournament (including Tier 1) repeats infractions, a judge may determine a penalty more severe than a “Warning” must be applied.
+Tier 2 (and higher) tournaments are more competitive events and require the highest level of ruling and policy enforcement.
+The Head Judge of the tournament has final say on all ruling and policy decisions.
+• If there is only one judge present at a tournament, that judge will serve as the Head Judge.
+• Once the Head Judge has made a decision, the decision is final and cannot be appealed.
+• Tier 3 Events may have Assistant Head Judges on staff, who will also fulfill most duties of the Head Judge. (See Official KDE-US Yu-Gi-Oh! TRADING CARD GAME Tournament Policy for further information).
+A. Persons Attending a Tournament
+All persons are ultimately responsible for their own actions, words, and behavior at a tournament; and as such they are expected to take an active role in their own tournament participation.
+All persons attending a tournament should always do their part to ensure they are in compliance with policy by reading policy documents and event FAQs.
+If anything is unclear, ask tournament officials for clarification at the event.
+All persons are responsible to understand when a judge call is appropriate.
+Appropriate:
+• If there is a concern about rulings or policy, a judge should be called at the moment the concern arises.
+• The intent of the judge call is to ensure a fair and consistent tournament.
+Examples
+Appropriate: Duelist A activates Pot of Desires and banishes 10 cards from the top of their Deck. Before Duelist A can resolve the card’s effect, Duelist B stops them and calls a Judge. Earlier in the turn, Duelist A had activated Pot of Extravagance, which prevents Duelist A from drawing for the rest of the turn. Since Duelist A did not draw any cards from Pot of Desires the game state can be repaired. The banished cards are placed back on top of the Deck in the same order and Pot of Desires is added back to Duelist A’s hand. The Judge then issues Duelist A a PE-Minor.
+Appropriate: Duelist A activates Dark Hole and destroys Duelist B’s Tearlaments Havnis. Duelist B then activates Havnis’ effect to Fusion Summon a monster. Instead of placing the materials from their hand, field and GY on the bottom of the Deck, Duelist B shuffles the cards into the Deck by mistake. The Game State is irreparable, and a judge must be called. If Duelist B does not call a judge, Duelist A must call a judge.
+Appropriate: Duelist A notices that Duelist B has played a second copy of Change of Heart, which appears as Limited on the current Forbidden and Limited List. Duelist A calls for a judge and explains the situation. The judge should investigate, involving the Head Judge if necessary, and assign the appropriate penalties for Deck Error to Duelist B.
+Appropriate: Duelist A repeatedly checks his set cards and Graveyard during each turn, even when no new cards have been played. Duelist B notices the time being spent on this, and respectfully asks Duelist A to play at a more appropriate pace. Duelist A continues to perform these same actions. Duelist B should call a judge and truthfully describe the actions and time being spent. The judge should then investigate, and assign any penalties as deemed necessary.
+Not Appropriate:
+• Judge calls should not be used to attempt to gain an unfair advantage over another person, or to turn penalties against another person. This is rule-sharking, Unsporting Conduct - Minor.
+• Judge calls should not be used to seek loopholes in policy to attempt to gain an unfair advantage or attempting to use rulings or policy to Misrepresent the Game State. This is Unsporting Conduct – Cheating.
+• Judge calls should not be used with the intent to specifically penalize another person, gain an unfair advantage, or Misrepresent the Game State.
+Examples
+Not Appropriate - UC-Minor: Duelist A activates Pot of Desires and banishes 10 cards from the top of their Deck. Before Duelist A can resolve the card’s effect, Duelist B stops them and calls a judge. Earlier in the turn, Duelist A had activated Pot of Extravagance, which prevents Duelist A from drawing for the rest of the turn. Although Duelist A did not add any cards to their hand, Duelist B tells the judge that Duelist A’s procedural error should still get a Game Loss. The Judge should issue Duelist A a PE-Minor, and Duelist B a UC-Minor.
+Not Appropriate - UC-Minor: During the first Game in the Match, Duelist A activates Imperial Iron Wall. Duelist B calls for a judge and demands a Deck check for Duelist A, claiming that it must be a Side Deck card because nobody includes it in the Main Deck. The judge should investigate to see if Duelist B has any actual knowledge of the contents of Duelist A’s Deck. If they do not, the judge should issue a UC-Minor infraction to Duelist B.
+Not Appropriate - UC-Cheating: Duelist A activates Pot of Desires and banishes 10 cards from the top of their Deck. Duelist B remembers that Duelist A had activated Pot of Extravagance this turn but intentionally waits for Duelist A to resolve the effect of Pot of Desires. After Duelist A draws 2 cards and shuffles them into their hand, Duelist B calls a judge. Duelist B insists that Pot of Desires could not have been activated and since the 2 cards drawn can no longer be identified, Duelist A should receive a Game Loss. The judge believes Duelist B deliberately waited for the irreparable Game State, and informs the Head Judge who should investigate whether Duelist B’s timing was intended to secure a Game Loss against Duelist A. The Head Judge decides it was intentional. Duelist A receives a PE-Minor, and the Head Judge disqualifies Duelist B.
+B. Judges
+Tournament fairness and consistency relies upon the judge’s knowledge of policy and their understanding of the penalties that accompany it. When a person commits an infraction, a judge should be able to correctly identify the infraction, administer the appropriate penalty, and educate the person about both the infraction and the penalty.
+II. Investigation Procedure
+A. Infractions and Penalties
+“Infractions” are errors in gameplay or policy. Most infractions are considered to be unintentional errors, rather than deliberate actions.
+“Penalties” are the consequences of infractions. Even an unintentional infraction can impact the tournament, so appropriate penalties should be assigned regardless of whether or not the person committing the infraction was aware it was not allowed.
+B. Determining an Infraction
+A judge must first investigate, then determine the infraction (if any), and only then apply the penalty.
+A judge should never “reverse engineer” a penalty by giving out the penalty first and then determining the infraction.
+• All persons involved should explain what happened and answer truthfully any questions the judge may have.
+• The judge will examine the situation and determine if an infraction has occurred.
+• If an infraction has occurred, the judge will explain the infraction and apply the appropriate penalty.
+• If no infraction has occurred, the judge will quickly explain why.
+Investigations for more serious infractions may be conducted in private.
+• Some infractions, depending upon severity, might also be explained in private to the person committing the infraction.
+• Not every situation that occurs is appropriate for public knowledge; so, the judge’s decision to address the matter in private should be respected by opponents, spectators, uninvolved judges and tournament officials, etc.
+• Judges or other persons may not record or tape these investigations.
+Persons have the right to appeal to the Head Judge, after the floor judge has determined the infraction, and applied the penalty.
+• Persons cannot appeal or request the Head Judge until after the floor judge has reached their decision.
+• Failure to wait until the floor judge has finished could result in Unsporting Conduct penalties.
+• The Head Judge’s decision is final and cannot be appealed.
+• If the Head Judge handled the initial judge call (instead of a Floor Judge), the Head Judge’s decision cannot be appealed.
+C. Applying the Penalty
+Once an infraction has been identified, the judge will ask the person if they have received any other penalties for this same infraction during the course of the tournament.
+• This helps the judge determine if a penalty might have to be upgraded.
+o In cases where a tournament takes place across more than one day, penalties acquired on Day 1 will carry over into Day 2, unless stated otherwise in that event’s FAQ.
+• Persons are required to answer this question honestly – lying to a tournament official is against tournament policy and will also be penalized.
+• If it is a repeat infraction, the judge will notify the Head Judge prior to applying a penalty, as the Head Judge might wish to upgrade it.
+• If this is a first-time infraction, the judge will briefly educate the person concerning the infraction and then apply the penalty.
+The judge will then allow the persons to continue play, if applicable.
+If the infraction occurred during a Match and the judge call took longer than a minute, the judge should note the appropriate time extension on the bottom left of the front of the Match Result Slip. (See Section II:E for more information on Time Extensions).
+• Note: Time Extensions should not be given if the infraction results in a Game Loss.
+The judge will take the Match Result Slip from the table and fill out the reverse side of the Match Result Slip with the penalty information. The information should be written as follows:
+[Duelist’s full name] – [Infraction] – [Penalty given] – [Brief description of infraction] – [Judge’s full name]
+The judge will then return the slip to the Match.
+If the infraction did not occur during a Match, the judge should provide all of the above details directly to the Scorekeeper, so that the infraction can be properly tracked in the tournament software.
+If the person committing the infraction does not have a CARD GAME ID number, they will be assigned one so the infraction can be recorded.
+D. Reporting Penalties
+All penalties issued by a judge must be reported to the Scorekeeper, usually by filling out the appropriate information on the reverse side of the Duelist’s Match Result Slip.
+• Scorekeepers will enter the details of the penalty in the official KONAMI Tournament Software (KTS) or the KONAMI Card Game Network (KCGN) so that it may be tracked throughout the course of the tournament.
+• The Head Judge should work with the Scorekeeper to acquire all of the tournament’s infraction information.
+• KDE-US reserves the right to contact a person who has accumulated an excessive amount of penalties for further investigation.
+• KDE-US reserves the right to pursue further actions – such as suspensions from KDE Organized Play – based on continued infractions.
+E. Time Extensions
+Judges should always note down the time at which they take a judge call, to ensure an appropriate time extension is provided.
+• Any judge call which lasts longer than 1 minute requires that the Match be given an appropriate time extension.
+• Time extensions are given after the call has been resolved.
+• Time extensions should only be given for the applicable time lost during a round – time extensions should never be longer than the time that remains in the round.
+• Time extensions should not be given when there is an infraction that results in a Game Loss.
+• Multiple time extensions may occur during a round for the same match.
+Examples
+Time extensions cannot exceed the time remaining in the round: A judge responds to a judge call at a Match with 3 minutes left in the Round. The Duelists decide to appeal the ruling to the Head Judge. The total length of the appeal time was 7 minutes. The Duelists should only be given a 3-minute time extension as that was the time lost during the round.
+Time extensions are not given when no time remains in the round: A judge responds to a judge call at a Match during End of Match procedures. The issue is resolved in 3 minutes. No time extensions should be given as no time is lost during the round, and End of Match procedures are not timed. The Duelists will continue with End of Match procedures.
+Time extensions are not given with a Game Loss: After a Deck check, a Duelist receives a Marked Cards – Major infraction, resulting in a Game Loss penalty. No time extension is given for the Deck check.
+Multiple time extensions run consecutively: A table was randomly selected for a Deck check, which gets them an 8-minute time extension. Later in that same round, one Duelist calls for a ruling. The table would get another appropriate time extension. Later in that same round, the other Duelist has a policy issue, resulting in a third time extension. These time extensions should run one after another.
+Time extensions begin when the judge arrives at the table: A judge arrives at the Match that has called for a judge. The Duelists inform the Judge they have been waiting for 2 minutes for a judge to answer their question. The judge takes 3 minutes to answer their question. The Duelists should receive a 3-minute time extension, as that was the time the judge spent answering the judge call.
+F. Game State
+The term “Game State” refers to all elements of the game – cards, field, hand, Graveyard, phase, turns, etc.
+• Both Duelists are responsible for maintaining the Game State, by clearly communicating with each other.
+• Both Duelists are required to divulge any and all information that may be required to maintain a legal Game State.
+The Game State can be damaged by illegal actions, missed mandatory effects, and so forth; rendering it either “accepted,” “reparable,” or “irreparable.” Whether or not a Game State is “reparable” or “irreparable” can mean the difference between a Warning and a Game Loss.
+Irreparable Game States
+• If both Duelists share fault in a single Game State error that merits a Game Loss, determine which Duelist is most at fault, and award that Duelist with the Game Loss. The Duelist less at fault should receive a Warning.
+• An irreparable Game State should never result in a double Game Loss, except as an upgrade.
+• An irreparable Game State should never result in restarting a Duel or Match.
+Examples
+Irreparable Game State: A Duelist returns a face-down monster to her Deck to Special Summon Gladiator Beast Heraklinos from her Extra Deck, without revealing it to her opponent. There is no way to tell if the face-down card was a “Gladiator Beast” Monster, so the action is irreparable. It is appropriate to give the Duelist a Game Loss.
+Irreparable Game State: A Duelist forgets to discard down to the legal hand limit at the end of his turn. During his opponent's turn he plays a card that draws a card. There is no way to know which cards the Duelist had in his hand prior to drawing the card. This is not a missed mandatory effect but a mandatory game mechanic. This action is irreparable, and it is appropriate to give the Duelist a Game Loss.
+Reparable Game States
+If both Duelists can provide clear information and a judge can determine a way to fix or rewind the Game State, it is “reparable.” The game should be repaired as far as possible and play should resume.
+• A Game State can be considered reparable even if every single error cannot be repaired.
+• If a Duelist has damaged the Game State due to an illegal action, missed mandatory effect, etc., and gameplay can be rewound to the point of the illegal action, it should be rewound even if the opponent may gain an advantage from information that was previously Private Knowledge.
+• A Game Loss is not an appropriate penalty for a reparable Game State, unless as an upgrade from previous infractions.
+Examples
+Reparable Game State: A Duelist shuffles his hand with his Deck. However, he had revealed his hand to the opponent earlier in the turn due to a card effect and has not drawn or played any additional cards. Both the Duelist and the opponent can clearly remember the contents of the Duelist’s hand. It is appropriate for the Duelist to restore his hand, reshuffle his deck, and continue play with a Warning.
+Reparable Game State: A Duelist activates an effect to search for a card without a legal target in her Deck. After she is unable to resolve the search effect, the Deck is shuffled, the Duelist should receive a Warning, and be allowed to continue play.
+Reparable Game State: A Duelist forgets to resolve a mandatory effect, and neither Duelist notices until a turn later. After investigation, the judge determines the infraction was unintentional, and that the game state can be rewound since the Duelists’ recollection of what happened since the error can be verified by checking the Graveyard, Life Point tally, etc. Both Duelists should receive a Warning as it is both Duelists’ responsibility to maintain the correct Game State. The game should be rewound to the point of the error, and gameplay should continue from that point.
+Reparable Game State: Both Duelists forget to record a change in Life Points, and the error is caught several turns later. The judge investigates and determines that the Life Point change was inadvertently missed. The Life Point totals should be corrected, both Duelists should receive a Warning, and be allowed to continue play.
+Accepted Game States
+Sometimes, the judge may make the determination that even though the Game State has been damaged, it has happened too far back to fully repair and does not create a significant advantage for the Duelist most at fault.
+The judge may then declare the Game State to be “Accepted,” meaning play will continue as is.
+Examples
+Accepted Game State: Both Duelists misread a card effect and resolve the effect incorrectly. The error is caught later when one of the Duelists plays another copy of the card. The judge investigates and determines that both Duelists genuinely misunderstood the effect. Both Duelists should receive a Warning as it is both Duelists’ responsibility to maintain the correct Game State, and gameplay should continue from that point.
+Accepted Game State: Neither Duelist has been keeping track of Life Points on paper, and there is a disagreement about Life Point totals. The judge should listen to both Duelists, examine both Graveyards, and decide in favor of the Duelist who best supports their case. The entire Game should not be reconstructed, and the decision should be made in a timely manner. Both Duelists should receive a Warning for not keeping a paper record.
+Accepted Game State: A Duelist forgets to resolve a mandatory effect, and neither Duelist notices until a few turns later. After investigation, the judge determines the infraction was unintentional, but neither Duelist is clearly able to recall what happened in the game after the error. Both Duelists should receive a Warning as it is both Duelists’ responsibility to maintain the correct Game State, and gameplay should continue from that point.
+Significant Advantage The Yu-Gi-Oh! TCG can be a complex game with a variety of factors influencing the outcome, so it can be difficult to say with certainty what constitutes a “significant advantage.” If an action would result in a Duelist who should not win a Game winning a Game, that is a good baseline for determining “significant advantage.”
+Examples
+Significant Advantage: A Duelist activates and resolves the effect of Magical Explosion while the opponent has Jinzo face-up on the field. The effect of Magical Explosion inflicts enough damage for the opponent to lose the Game. Neither Duelist realizes the effect of Magical Explosion should have been negated by Jinzo until after both Duelists have shuffled the cards from their hand and Graveyard into their Deck to prepare for the next game.
+Significant Advantage: A Duelist has a Tearlaments Havis face-up on the field. The opponent has Rivalry of Warlords face-up on the field and 2500 Life Points remaining. The Duelist Normal Summons Tearlaments Reinoheart, moves to the Battle Phase, and attacks with both monsters to reduce his opponent’s Life Points to 0. Neither Duelist realizes the effect of Rivalry of Warlords prevents the Duelist from Summoning Tearlaments Reinoheart until after both Duelists have shuffled the cards from their hand and Graveyard into their Deck to prepare for the next game.
+Significant Advantage: A Duelist has 700 Life Points remaining and Imperial Order face-up on the field. The Duelist ends her turn, forgetting to pay 700 LP to keep Imperial Order face-up on the field. On a subsequent turn, she realizes she should have run out of Life Points during a previous turn.
+Misrepresenting the Game State:
+• Duelists are responsible for maintaining an accurate and legal Game State at all times.
+• Duelists may not perform actions that would intentionally mislead their opponent or a tournament official about the Game State.
+• Duelists must always truthfully answer any question about Game State information that is considered Public Knowledge.
+• Duelists may not answer questions or offer information about Game State information that is considered Private Knowledge.
+• Duelists may not make false statements about the game or gameplay, even about information that is considered Private Knowledge.
+• Duelists may not place any game element in any way that would intentionally mislead their opponent and/or tournament official or conceal the element’s presence from the opponent’s and/or tournament official’s view.
+• Duelists may not make deceptive offers to or agreements with their opponents.
+Misrepresenting the Game State is considered Unsporting Conduct – Cheating. Please see section IV:H-4 for more information.
+Examples
+Misrepresenting the Game State: A Duelist asks her opponent “What is the DEF of Blue-Eyes White Dragon?” and the opponent intentionally replies, “The DEF is 1500.” The DEF of Blue-Eyes White Dragon is not 1500.
+Misrepresenting the Game State: A Duelist mentions they are running a certain card which is not currently considered to be Public Knowledge, with the intent to influence their opponent’s actions.
+Misrepresenting the Game State: A Duelist intentionally places his hand over a set card in his Spell/Trap zone, leading his opponent to believe he has no set cards.
+Misrepresenting the Game State: A Duelist intentionally places a stack of Token cards face-down in his Extra Deck zone.
+Misrepresenting the Game State: A Duelist tells her opponent “If you show me Honest in your hand, I will forfeit the game.” When the opponent reveals a copy of Honest, she activates Mind Crush and selects Honest.
+Misrepresenting the Game State: A Duelist notices that their opponent forgot to add her Banished card pile back to her Deck when shuffling for Game 2. They wait until she draws her opening hand, and only then calls a judge about her illegal Deck.
+Misrepresenting the Game State: A Duelist has Exodia the Forbidden One, Left Leg of the Forbidden One, Left Arm of the Forbidden One, Right Leg of the Forbidden One, and Right Arm of the Forbidden One in his hand, and lies to his opponent about holding a Win Condition, prolonging the Match.
+Misrepresenting the Game State: A Duelist responds to her opponent’s question with a noncommittal answer or gesture instead of replying clearly, in an intentional attempt to “bait” her opponent into an action or decision.
+Misrepresenting the Game State: A Duelist suggests to his opponent that they should choose not to side in Fairy Wind as they go in to Game 2 of their Match, then proceeds to side in Fairy Wind anyways.
+III. Penalties
+“Penalties” are the consequences of infractions.
+Even an unintentional infraction can impact the tournament, so appropriate penalties should be assigned regardless of whether or not the person committing the infraction was aware it was not allowed.
+There are 4 types of Penalties:
+• Warning
+• Game Loss
+• Match Loss
+• Disqualification
+Judges must use only these penalties and may not create or implement new ones.
+A. Warning
+A Warning is the most commonly utilized penalty. It is given to a person who commits a Minor infraction, that does not have a significant impact on the tournament.
+A Warning is given out if the judge believes the infraction to be minor and unintentional (See Section III:H Unsporting Conduct for Exception).
+• A Warning itself does not have a large impact on a person or a tournament, but it serves as a training tool for Duelists and allows tournament staff to track a potential problem.
+• Repeated Warnings for the same infraction can be upgraded.
+• Warnings must be tracked in written form. If the tournament is using Match slips, it should be written on the Match slip. If the tournament is using KTS, it should also be recorded there.
+A Warning should always be followed by a brief education for the Duelist, explaining why the penalty was handed out and that a further infraction can lead to an upgrade.
+An upgrade to a Warning is a Game Loss.
+B. Game Loss
+A Game Loss is given out when a person has committed an infraction which is not severe enough to forfeit an entire Match or to be removed from the tournament premises, but has a significant impact on the game.
+A Game Loss is appropriate for situations where a Game State is Irreparable due to the actions of the person receiving the penalty.
+This penalty is given if the judge believes the infraction was unintentional (See Section III:H Unsporting Conduct for exception).
+• If a Game Loss is given out during a game, the person receiving the penalty forfeits the current game.
+• If a Game Loss is given out between games of a Match, the person receiving the penalty forfeits the upcoming game.
+• If the Game Loss penalty is given out before the start of a Match, the person receiving the penalty forfeits the first game of the upcoming Match.
+• If a Game Loss is given out before a Match, neither Duelist may use their Side Deck prior to the beginning of the first played game.
+• If a Game Loss is given out during a Match and the Match winner has not been decided, both Duelists may use their Side Deck prior to the next game.
+• A Game Loss must be tracked in written form. If the tournament is using Match slips, it should be written on the Match slip. If the tournament is using KTS, it should also be recorded there.
+A Game Loss should always be followed by a brief education for the Duelist, explaining why the penalty was handed out and that a further infraction can lead to an upgrade.
+An upgrade to a Game Loss is a Match Loss.
+C. Match Loss
+This penalty is given for an infraction that seriously impacts the game but does not require the Duelist to be removed from the tournament.
+This penalty is given if the judge believes the infraction was unintentional (See Section III:H Unsporting Conduct for exception).
+• Only a Head Judge may give out a Match Loss penalty, with the exception of a Match Loss tardiness penalty.
+• If the Head Judge feels that applying the Match Loss penalty to the current round is not severe enough (if a Duelist commits the infraction as they are about to lose a Match, for example), the Head Judge may apply the penalty for the upcoming round.
+• If a Duelist simultaneously commits 2 infractions, one of which merits a Match Loss and another which merits a Game Loss, the judge should give the Match Loss penalty first, followed by the Game Loss.
+• A Match Loss must be tracked in written form. If the tournament is using Match slips, it should be written on the Match slip. If the tournament is using KTS, it should also be recorded there.
+A Match Loss should always be followed by a brief education for the Duelist, explaining why the penalty was handed out and that a further infraction can lead to an upgrade.
+An upgrade to a Match Loss is a Disqualification.
+D. Disqualification
+A Disqualification is the most severe penalty that can be given.
+A Disqualification is given for severe infractions that require the person to be removed from the tournament or the tournament premises.
+A Disqualification is usually given when a person intentionally breaks tournament rules, or as an upgrade from previous penalties.
+• Judges need to investigate carefully to determine whether or not a Duelist is intentionally breaking a rule.
+• Ignorance of the rule is not the same thing as lack of intent. Ignorance of a rule does not necessarily prevent the person from being Disqualified.
+• All persons attending a tournament are subject to the same penalties and infractions. This means that persons not enrolled in the event as Duelists are not exempt from a Disqualification penalty and can be disqualified if they commit an infraction that merits disqualification.
+• The infraction does not need to have occurred inside the venue, as long as it impacts upon or connects to a Sanctioned or Official event.
+• KDE-US reserves the right to suspend persons from KDE’s Organized Play program for infractions not connected to a specific event.
+There are 2 types of Disqualification penalties:
+• Disqualification (With Prize): This penalty is only given out through the upgrade process. A person who commits the same infraction multiple times throughout an event and has their penalty upgraded to a Disqualification, should only be with prize if it occurs during the Single-Elimination portion of an event, where the Duelist has already earned prizing via their tournament ranking. Disqualifications via an upgrade should not award prizing if the upgrade was due to an Unsporting Conduct infraction or if the Disqualification occurred during the Swiss rounds of an event.
+• Disqualification (Without Prize): This penalty is given out when a person intentionally breaks tournament policies. This includes, but is not limited to, Cheating and Unsporting Conduct behavior. The person will be dropped from the event, and in most cases, required to leave the venue.
+Only the Head Judge may disqualify a person from an event.
+If a person is disqualified, a written statement must be filled out by any and all persons involved, including opponents, spectators, judges, tournament officials, etc.
+It is the Head Judge’s responsibility to collect these written statements from those involved and provide them to the Tournament Organizer. It is the Tournament Organizer’s responsibility to send the statements to the KDE Penalty Committee within seven (7) days of the event.
+Only the KDE Penalty Committee can suspend persons from KDE Organized Play.
+Examples
+Disqualification: A Duelist commits a second Marked Cards – Strict infraction during the final Swiss Round of the tournament. There are no additional rounds to be played. The Head Judge has upgraded the penalty from a Match Loss to a Disqualification with Prize. As a result of the Disqualification penalty, the Duelist is dropped from the event. However, since prizing for Swiss events are only awarded to the Duelists who are still active in the event, this Duelist is not eligible to receive prizing.
+Disqualification: A Duelist commits a second Marked Cards – Strict infraction during the final playoff round of the event. The Head Judge has upgraded the penalty from a Match Loss to a Disqualification with Prize. Prizing is being awarded to all players who made the Top 8 Playoff. The Duelist should still receive their 2nd place prizing.
+Disqualification: A Duelist commits a third Unsporting Conduct – Major infraction during the final playoff Match of the event. The Head Judge has upgraded the penalty each time, starting with a Game Loss, then Match Loss, and then a Disqualification. Prizing is being awarded to all players who made the Top 8 Playoff. The Duelist is not eligible to receive prizing since the upgrade was due to an Unsporting Conduct infraction.
+Disqualification: A Duelist commits an Unsporting Conduct – Severe infraction during the tournament. The Head Judge has given out the Disqualification (without prize) penalty. The Duelist should be dropped from the event and awarded no prizing, regardless of in which round the infraction occurred.
+E. Upgrading and Downgrading Penalties
+Only the Head Judge of an event may upgrade or downgrade a penalty.
+Penalties may be upgraded or downgraded – Infractions should never be upgraded or downgraded.
+• Upgrades should only be given to a person repeating the same infraction during the course of the same event.
+• A Head Judge may choose to be a bit more lenient in the upgrade process during a Tier 1 event, choosing not to upgrade the penalty after the second infraction.
+• A Head Judge should be consistent about upgrading penalties at Tier 2 events.
+• If an event extends across more than one day, all days should be considered the same event, and penalties should continue to be upgraded.
+Examples
+Appropriate to upgrade: A Duelist commits a Slow Play infraction at a Regional and is given a Warning. Later in the same event, the same Duelist commits another Slow Play infraction. The appropriate response is to upgrade from a Warning to a Game Loss.
+Appropriate to upgrade: A Duelist is not keeping track of her Life Points on paper (Procedural Error - Minor) on Day 1 of a YCS and receives a Warning. On Day 2 of the YCS, she again does not keep track of her Life Points on paper. Day 2 is considered a continuation of Day 1, so the appropriate response is to upgrade from a Warning to a Game Loss.
+Not Appropriate to upgrade: A Duelist shifts the positions of their cards on the field at a Regional (Procedural Error - Minor) and receives a Warning. Later in the same tournament, they set a Spell or Trap card then attempt to take back the move (Procedural Error - Minor). Although both infractions are Procedural Error - Minor, they are not the same error. It is not appropriate to upgrade the penalty for the second Procedural Error.
+A Head Judge may downgrade a penalty under extreme circumstances but should adhere to official policy in order to remain impartial and consistent.
+• Downgrading a penalty can be appropriate if the infraction is incurred due to circumstances beyond the person’s control.
+• Downgrading a penalty can be appropriate when the standard penalty will have no impact on the tournament.
+• A person’s age or experience level is not usually sufficient reason to downgrade a penalty. It is appropriate to educate and reassure the person, but judges should not assume the habit of downgrading penalties for infractions committed by new Duelists or young persons.
+Examples
+Appropriate to downgrade: A Duelist leaves the venue to buy food, after being told by the TO that the next round will not start for another 20 minutes. The TO does not inform the Head Judge, who starts the next round. When the Duelist returns, he finds that he is more than 3 minutes late and would receive a Game Loss. The Head Judge investigates, determines that the TO did provide inaccurate information, and the Duelist had no way of knowing that the round was about to start. It is appropriate to remove the infraction.
+Appropriate to downgrade: A Duelist in the final round of Swiss at a YCS loses the match, which ends his chance to move on to Single Elimination. The Duelist tears the match slip and refuses to sign it because he is so upset with the loss. Giving a Game Loss for this Unsporting Conduct - Major infraction will have no impact on the tournament, since there will not be a subsequent Match. It is appropriate to downgrade the penalty to de-escalate the situation, explaining to the Duelist that the penalty is being downgraded.
+Not appropriate to downgrade: A young Duelist attends a Regional Qualifier for the first time, with a Deck sleeved in two different kinds of sleeves. A Deck check determines that Marked Cards - Major is the appropriate penalty. While the Duelist is new and did not understand why she cannot use 2 different kinds of sleeves, the age and skill level of the Duelist does not mean the penalty should be downgraded. The Duelist should be educated and reassured.
+IV. Infractions
+“Infractions” are errors in gameplay and/or violations of policy.
+Most infractions are considered to be unintentional errors, rather than deliberate actions.
+• If a person commits an infraction, a judge must apply the appropriate penalty.
+• Because there are degrees of infractions with different levels of impact on the event, there are corresponding degrees of severity for penalties.
+• The different categories of infractions can have different penalties administered, depending on the severity of the infraction.
+Judges must follow the guidelines listed below, and not create or implement new infractions.
+A. Severity
+Infraction Description
+Minor
+This sub-category will be penalized with a Warning
+Major
+This sub-category will be penalized with a Game Loss
+Strict
+This sub-category will be penalized with a Match Loss
+Severe
+This sub-category will be penalized with a Disqualification
+Cheating
+This sub-category will be penalized with a Disqualification
+B. Procedural Error (PE)
+This category covers infractions involving general play errors a Duelist might commit during the course of a game.
+There are 3 sub-categories for Procedural Error: Minor, Major, and Strict, which indicate the severity of the infraction.
+1. Procedural Error (PE) – Minor: (Warning)
+This penalty is appropriate for Minor infractions where the problem can be easily corrected and does not have a significant impact on the tournament.
+Examples
+PE-Minor: Both Duelists forget to resolve a Mandatory Effect, and the Game State is reparable by a judge. Since both Duelists are responsible, they each receive a Warning.
+PE-Minor: A Duelist attempts to Summon a monster while an effect prohibits him from doing so.
+PE-Minor: A Duelist accidentally changes the order of the cards in her Graveyard.
+PE-Minor: A Duelist shifts the position of a card on his field when he has not been directed to do so by a card effect or game mechanic.
+PE-Minor: A Duelist rushes from his Main Phase 1 straight into declaring an attack with his Monster without notifying his opponent that he is changing Phases and not giving his opponent the opportunity to respond to the changing of Phases.
+PE-Minor: Duelists neglect to agree on the location of the Field Center before beginning their Game.
+PE-Minor: Duelists are not keeping a paper record of their Life Points.
+PE-Minor: A Duelist Normal Summons a monster and then attempts to retract the move.
+PE-Minor: A Duelist does not communicate clearly with his opponent.
+PE-Minor: A Duelist does not fully reveal a card that was retrieved from her Deck, Graveyard, etc., via an effect that searches for a card.
+PE-Minor: A Duelist activates and resolves the effect of Pot of Greed while Spell Canceller is face-up on field. Both the Duelist and his opponent can identify the two cards drawn, so they are returned to the top of the Deck.
+2. Procedural Error (PE) – Major: (Game Loss)
+This penalty is appropriate for Major infractions that cause an irreversible disruption to the current game or can impact the timely progression of subsequent rounds.
+The game is beyond repair, so the penalty must be significant.
+Examples
+PE-Major: A Duelist shuffles his hand into his Deck by accident.
+PE-Major: A Duelist forgets to pay a maintenance cost and doesn’t catch it until a few turns later, after she realizes she should have run out of Life Points during a previous turn.
+PE-Major: The Duelist responsible for submitting the Match Result Slip puts it in their pocket and leaves to get food instead of handing it in to the Scorekeeper. After 5 minutes have passed from the end of the Round, the missing slip is delaying the pairings for the next Round.
+PE-Major: A Duelist forgets to discard down to the legal hand limit at the end of his turn. During his opponent's turn he plays a card that draws a card. There is no way to know which cards the Duelist had in his hand prior to drawing the card. This is not a missed mandatory effect but a mandatory game mechanic. This action is irreparable, and it is appropriate to give the Duelist a Game Loss.
+3. Procedural Error (PE) – Strict: (Match Loss)
+This penalty is appropriate for infractions that cause a Duelist to be unable to finish the current Match. If the Duelist determines they will be unable to finish the tournament itself, they should notify the scorekeeper to be dropped from the event.
+Examples
+PE-Strict: A Duelist spills water on her Deck and damages her cards, which makes it impossible to finish the current Match.
+PE-Strict: A Duelist loses his Deck in between Matches and does not notify the scorekeeper until after the round has already been paired.
+C. Tardiness (T)
+This category covers infractions that prevent a Duelist from beginning their Match within the specified timeframe allowed by the tournament.
+There are 2 sub-categories for Tardiness: Major and Strict, which indicate the severity of the infraction.
+Tardiness penalties should never be upgraded after repeat infractions.
+Since Tardiness penalties are never upgraded, Tardiness penalties are not required to be entered into the KONAMI Tournament Software (KTS) or the KONAMI Card Game Network (KCGN).
+1. Tardiness (T) – Major: (Game Loss)
+This penalty is appropriate when a Duelist is not in their seat and ready to begin after 3 minutes have passed from the beginning of the round.
+Examples
+T-Major: A Duelist is not in his seat and ready to begin within 3 minutes into the round.
+T-Major: A Duelist sat at the wrong table and played the wrong opponent, and the mistake was caught after the three-minute mark in the round, but before the 10-minute mark.
+T-Major: A Duelist fails to build and/or register his Deck within the allotted timeframe during a Sealed pack event.
+2. Tardiness (T) – Strict: (Match Loss)
+This penalty is appropriate when a Duelist is not in their seat and ready to begin after 10 minutes has passed since the beginning of the round.
+Examples
+T-Strict: A Duelist is not in his seat within 10 minutes into the round.
+T-Strict: A Duelist sat at the wrong table and played the wrong opponent, and the mistake was caught after the 10-minute mark in the round.
+T-Strict: A Duelist received a Marked Cards – Minor infraction and was instructed to replace the marked cards before the next round began. The Duelist was unable to replace the cards before the 10-minute mark in the round.
+D. Deck and Deck List Errors (DE)
+This category covers infractions associated with registering incorrect contents on a Deck List or playing with an illegal Deck.
+If an error that would result in an illegal Deck or Deck List is caught prior to the start of the first round, it is acceptable (at the Head Judge’s discretion) to correct the Duelist’s Deck List without applying a penalty.
+There are 2 sub-categories for Deck Error: Minor and Major, which indicate the severity of the infraction.
+1. Deck Error (DE) – Minor: (Warning)
+This penalty is appropriate when a Duelist realizes they have an illegal Deck or Deck List and brings it to the attention of tournament staff before the tournament begins.
+This penalty is also appropriate if any Deck List content needs to be confirmed.
+Examples
+DE-Minor: A Duelist accidentally records 2 copies of a Limited card on her Deck List, but brings it up to a tournament official prior to the start of Round 1.
+DE-Minor: A Duelist has 39 cards in his Main Deck and can add another tournament legal card to bring the total to 40 before the tournament begins, and brings it up to a tournament official prior to the start of Round 1.
+DE-Minor: A Duelist arrives at his Match and prior to presenting his Deck to his opponent to randomize, realizes he forgot to remove Side Deck cards from the previous Match. The Duelist must restore the Deck within the 3-minute window or risk an additional penalty for Tardiness.
+DE-Minor: A Duelist has accidentally shuffled an Extra Deck card into his Main Deck and draws it from his Deck during a game. He should show the Extra Deck card to his opponent and a judge, return the Extra Deck card to his Extra Deck, and draw a new card.
+DE-Minor: A Duelist’s handwriting is impossible to read, and a judge is obligated to clarify the name of a card or cards by checking with the Duelist.
+DE-Minor: A Duelist is playing with a legal foreign language version of a card but does not have a translation kept outside of her Deck.
+DE-Minor: A Duelist unintentionally registers a card incorrectly during Sealed pack play and the error is caught during Deck construction. The Duelist that registered the card pool should receive a Warning.
+DE-Minor: A Duelist enters an event with a card he did not realize was counterfeit. The Duelist should be allowed to replace the card with an actual version of the card and receive a Warning. Standard tardiness penalties will apply. If the Duelist cannot replace the card, the Deck list should be corrected as described in the Deck List errors section.
+2. Deck Error (DE) – Major: (Game Loss)
+This penalty is appropriate if:
+• A Duelist registers an illegal Deck List
+• A Duelist has an illegal Deck
+• The Deck List does not match the contents of the Deck and the Duelist does not catch the errors and notify a tournament official before Round 1 begins.
+If the Duelist has registered a legal Deck List but the Deck is illegal and/or does not match the Deck List, the Deck List takes priority over the contents of the Deck.
+• In this case, the Deck should be fixed to match the Deck List.
+It is the Duelist’s responsibility to obtain any cards needed to match the Deck to the Deck List before continuing gameplay.
+• If the Duelist does not have access to the necessary cards, the Duelist may add only enough cards to the Deck from the Side Deck to make the Deck legal, then correct the Deck List.
+• If the Duelist is not using a Side Deck, and cannot make the Deck match the Deck List, the Duelist cannot continue in the tournament and should be dropped from the event.
+If a Duelist registers the wrong card name in the Deck List, and the card written is an Official Yu-Gi-Oh! TCG card, then the Deck List is still legal. The Deck is illegal and should be fixed to match the Deck List.
+• If the Duelist does not have access to the listed card or is unable to legally use the card in that portion of the Deck (Synchro Monster listed in the Main Deck, etc.), then if the Main Deck total is still legal, fix the Deck List.
+• If the Main Deck total is illegal, the Duelist must use cards from his/her Side Deck to make the Main Deck legal.
+• If the Duelist is not using a Side Deck, and cannot obtain the necessary card(s), the Duelist cannot continue in the tournament and should be dropped from the event.
+If finding the necessary cards makes the Duelist more than 10 minutes tardy for the Match, the appropriate Tardiness-Strict penalty would apply in addition to the Deck Error Game Loss.
+If the Duelist has registered an illegal Deck List but the Deck is legal, a judge should ensure the Duelist fixes the Deck List to match the Deck.
+If a Duelist registers the wrong card name on the Deck List, and the card written is an Official Yu-Gi-Oh! TCG Card, but the card is a Forbidden card, then the Deck List is illegal.
+• If the Deck is legal, the Deck List should be fixed to match the Deck.
+If the Duelist has registered both an illegal Deck List and Deck, a judge should ensure the Duelist fixes the Deck first by removing all illegal cards from the Deck (Forbidden Cards, OCG Cards, extra copies of Limited/Semi-Limited cards, etc.). Then, fix the Deck List to match the Deck.
+• If removing the illegal copies makes it so the Deck is still legal, no additional cards may be added to replace the illegal cards and the Duelist must correct the Deck List.
+• If removing the illegal copies makes the Deck illegal, the Duelist may add only enough cards to the Deck from the Side Deck to make the Deck legal, then correct the Deck List.
+o Cards may not be added to the Side Deck to replace the transferred cards.
+• If the Duelist is not using a Side Deck, and cannot make a legal Deck, the Duelist cannot continue in the tournament and should be dropped from the event.
+If a Deck Check has already been performed in which the Deck List has been verified as legal, the Deck List cannot be changed.
+In this case, if the Deck does not match the Deck List, a judge should ensure the Duelist fixes the Deck to match the Deck List.
+• If the Duelist does not have access to the necessary cards, the Duelist cannot continue in the tournament and should be dropped from the event.
+Examples
+DE-Major: If both the Deck List and the Deck are legal but do not match, a judge should ensure the Duelist fixes the Deck to match the Deck List.
+DE-Major: A Duelist has 41 cards listed in his Deck List and has 41 cards in his Main Deck. The Duelist lists a Limited card 3 times on the Deck List. He also has all 3 copies in his Main Deck. The 2 illegal copies of the Limited card should be removed from the Deck. Since the Duelist now has an illegal Deck (39 cards), he must choose 1 card from his Side Deck and add it to his Main Deck. The Deck List should be fixed to match the Deck.
+DE-Major: A Duelist has 42 cards listed in his Deck List and has 42 cards in his Main Deck. The Duelist lists a Limited card 3 times on the Deck List. He also has all 3 copies in his Main Deck. The 2 illegal copies of the Limited card should be removed from the Deck. Since the Duelist still has a legal Deck (40 cards), he may not modify his Deck. The Deck List should be fixed to match the Deck.
+DE-Major: A Duelist has 39 cards in her Main Deck. The Duelist will add a card to the Main Deck from the Side Deck. The Deck List should be fixed to match the Deck.
+DE-Major: A Duelist forgets to remove Side Deck cards from his Deck in between rounds, and the error is caught after the Deck has been presented to his opponent for randomization.
+DE-Major: A Duelist registers “Bottomless,” “Mirror,” “Stardust,” etc., on her Deck List. These names can indicate more than one card. The Deck List should be updated with the full names of the cards she is playing.
+DE-Major: A Duelist registers Black Luster Soldier on her Deck List. When her Deck is checked, the Duelist is playing Black Luster Soldier - Envoy of the Beginning. If Black Luster Soldier - Envoy of the Beginning is not on the forbidden list, and it is an actual card in the Yu-Gi-Oh! TCG, the Deck should be fixed to match the Deck List – the Duelist must play with Black Luster Soldier, the card named on the Deck List.
+E. Drawing Extra Cards (DC)
+This category covers infractions associated with drawing cards from the Deck outside of when a Duelist is allowed to do so.
+There are 2 sub-categories for Drawing Extra Cards: Minor and Major, which indicate the severity of the infraction.
+1. Drawing Extra Cards (DC) – Minor: (Warning)
+This penalty is appropriate when a Duelist has drawn cards from their Deck when not allowed to do so, and the cards can be clearly identified by both Duelists or logically identified by a judge.
+• This penalty also applies to situations in which cards are accidentally revealed.
+• The cards should be shown to both Duelists and then returned to their original areas, in their original order.
+Examples
+DC-Minor: A Duelist accidentally draws a card when not allowed to do so but does not add the card to her hand.
+DC-Minor: A Duelist accidentally draws a card and adds it to their hand. A judge is able to logically identify which card was drawn due to effects that have already been played.
+DC-Minor: A Duelist accidentally knocks over cards from the top of her Deck.
+DC-Minor: A Duelist going first in the Duel accidentally draws 6 instead of 5 cards for his starting hand. Since all cards are drawn from a randomized pile at the same time, it is appropriate to return a randomly selected card to the top of the deck. The card should be shown to both Duelists.
+2. Drawing Extra Cards (DC) – Major: (Game Loss)
+This penalty is appropriate when a Duelist has unintentionally drawn cards from their Deck when not allowed to do so, and the cards cannot be clearly identified by both Duelists or logically identified by a judge.
+• Drawing extra cards when not allowed to do so damages the Game State and must carry a heavier penalty.
+• A judge should always attempt to recreate the situation to logically determine which card(s) were drawn. If the judge or both Duelists are not completely sure which card(s) were drawn, this penalty applies.
+Examples
+DC-Major: A Duelist accidentally draws an extra card via an effect and adds it to her hand, with no way to correctly identify which card was added.
+DC-Major: A Duelist resolves an effect that searches for a card, selects a card from his Deck, and then adds it to his hand without revealing the card to the opponent. Neither the opponent or a Judge is able to positively identify the card that was added to the hand.
+F. Marked Cards (MC)
+This category covers infractions involving Marked Cards and/or sleeves. These markings are considered to be unintentional.
+• A card or sleeve is considered to be “marked” if it can be distinguished from the other cards contained in a Deck, while the cards are face-down.
+• Markings include (but are not limited to) dirt, edge discolorations, creases or tears, flimsy texture, damaged corners, shifting within sleeves, etc. Markings can occur on the card, the sleeve, or both.
+• It is a Duelist’s responsibility to maintain un-marked cards and sleeves throughout the duration of a tournament.
+• Marked Card infractions apply to all cards in all Decks, including Main, Side, and Extra.
+• If the Deck is double sleeved, markings apply to both the inner and outer sleeves.
+There are 3 sub-categories for Marked Cards: Minor, Major, and Strict, which indicate the severity of the infraction.
+1. Marked Cards (MC) – Minor: (Warning)
+This infraction and penalty is appropriate when a Duelist has minor markings on one or very few cards in their Deck that show no significant pattern.
+• If the markings are on the sleeves, the Duelist should be required to change the sleeves so that the entire Deck matches.
+• If the cards themselves are marked, the Duelist must replace the cards.
+• It is appropriate for a judge to allow a Duelist to change the sleeves in between rounds as to not hold up the current Match.
+It is important for judges to understand that a pattern should not be presumed merely because the card(s) marked are “good” cards.
+Examples
+MC – Minor: A Duelist has 2 random sleeves in his Deck with minor wear and tear. The 2 cards in the sleeves bear no pattern.
+MC – Minor: A Duelist has 3 cards in his Deck with minor bends that can be noticed through the sleeves. The 3 cards bear no pattern.
+2. Marked Cards (MC) – Major: (Game Loss)
+This infraction and penalty is appropriate when a Duelist has a significant number of cards marked and a judge notices there isn’t a significant pattern.
+• This infraction and penalty should be applied if the Head Judge determines that the pattern is insignificant and unintentional.
+• It is appropriate for a judge to allow a Duelist to change the sleeves in between rounds as to not hold up the current Match.
+• Although this infraction assumes the marking is unintentional, any markings on a card or sleeve can give a significant advantage to a player, so it carries a heavier penalty.
+• It is very important for a Head Judge to investigate further to make sure the markings are not intentional.
+Examples
+MC – Major: A Duelist has 12 sleeves with wear and tear on the top left corner. The marking is on 8 of the 12 Spell Cards in the Main Deck. The Head Judge determines the markings are accidentally caused by the way the Duelist holds his cards. The Duelist should receive a Marked Cards – Major (Game Loss) and replace the sleeves once the Match concludes.
+MC – Major: A Duelist has 14 normally-sleeved cards upside down in his Deck during a mid-round Deck Check, 10 of which are Monster Cards. The Head Judge determines these cards were the Duelist’s Graveyard during the previous Game, and the Duelist unintentionally shuffled them back in the wrong direction. The Duelist should receive a Marked Cards – Major (Game Loss).
+MC – Major: A Duelist has 3 cards with additional wear and tear on the top left corner. The marking is on the only 3 Trap Cards in the Duelist’s Main Deck. The Head Judge determines the markings were made accidentally based on how the Duelist handles his face-down Spell/Trap Cards. The Duelist should receive a Marked Cards – Major (Game Loss) and replace the cards.
+MC – Major: A Duelist is playing with cards that have been altered from their original manufactured state. The alterations make it so that the Duelist/Judge is unable to determine which card it is at first glance, or the rarity has been altered from how it was manufactured by KONAMI. The Duelist should receive a Marked Cards – Major (Game Loss) and replace the cards.
+3. Marked Cards (MC) – Strict: (Match Loss)
+This infraction and penalty is appropriate when a Duelist has a significant number of cards marked and a judge notices a significant pattern.
+• This infraction and penalty should be applied if the Head Judge determines that the pattern is unintentional.
+• If this occurs near the end of a round or in between rounds, it is appropriate for the Head Judge to provide an appropriate time extension for the player to fix the issue.
+• Although this infraction assumes the marking is unintentional, any markings on a card or sleeve that bear a significant pattern can give a significant advantage to a player, even if the Duelist was unaware of the pattern.
+• Duelists should be required to fix all errors with the cards and/or sleeves before being allowed to continue play.
+• It is very important for a Head Judge to investigate further to make sure the markings are not intentional.
+Examples
+MC- Strict: During a judge call near the end of the round, a Duelist is found with 15 cards from their Side Deck that are warped. Upon investigation, the Head Judge determines that this was unintentional. The entire Side Deck is considered to be marked with a significant pattern. The Duelist should receive a Marked Cards – Strict (Match Loss) and will need to replace the cards or remove them from their Side Deck before being allowed to continue play. If the cards are being removed, the Deck List should be updated accordingly. It is appropriate for the Head Judge to provide a time extension into the next round, to provide the Duelist with an opportunity to properly correct the issue.
+MC- Strict: During a mid-round Deck check, a Duelist is found with 6 sleeves of a slightly different shade of color than the color of the rest of his Main Deck. Upon investigation, the Head Judge determines that the player ran out of sleeves while sleeving his Side Deck and the entire Side Deck is currently using a different pack of sleeves than the Main Deck, and the Duelist seemed to be genuinely unaware of the difference. The entire Side Deck is considered to be marked with a significant pattern. The Duelist should receive a Marked Cards – Strict (Match Loss) and will need to replace the sleeves before being allowed to continue play.
+G. Slow Play (SP)
+This category covers infractions associated with the pace of a Duelist’s game.
+• Duelists are expected to play at a reasonable speed, regardless of the complexity of the game situation, and should not waste time.
+o There is not a set amount of time a Duelist may use per action, but they are expected to pace themselves accordingly to the complexity of the game.
+Slow Play infractions are always administered as a Warning at first, and then upgraded as
+• appropriate if the infraction is repeated.
+• Slow play is presumed to be unintentional.
+• Intentionally delaying a Game or Match is considered to be Stalling and falls under the Unsporting Conduct-Cheating infraction.
+1. Slow Play (SP) –Minor: (Warning)
+This penalty is appropriate when a Duelist unintentionally plays slowly, causing a minor delay in the Game.
+It is a Duelist’s responsibility to play at a reasonable pace, regardless of how complex a situation may be.
+A time extension of at least 3 minutes should be given following a Slow Play warning, unless the Match has entered End of Round procedures.
+Penalties assigned to Slow Play infractions that continue throughout an event should be upgraded. SP – Major and SP-Strict can be applied only through an upgrade.
+Examples SP-Minor: A Duelist is excessively slow while searching his Deck with an appropriate effect and does not appear to be doing so intentionally. SP-Minor: A Duelist is excessively slow near the end of the Match as the complexity of his upcoming actions may decide whether he wins or loses the current Game or Match. Upon investigation, it is determined he does not appear to be doing so intentionally. SP-Minor: A Duelist repeatedly requests to see her opponent’s Graveyard, or constantly requests a hand count during a given turn and does not appear to be doing so intentionally. SP-Minor: A Duelist takes longer than the 3 minutes allowed to access her Side Deck in between games of a Match and does not appear to be doing so intentionally. SP-Minor: A Duelist is excessively slow while taking notes, or repeatedly pauses the turn to refer to notes taken in the current Match. Upon investigation, he does not appear to be doing so intentionally. SP-Minor: A Duelist arrives at his table after 3 minutes have passed in the round, then takes an additional length of time to roll out his Game Mat, rummage for his Deck, or otherwise get set up for the game. The Slow Play penalty should be given in addition to the Tardiness penalty. SP-Minor: A Duelist repeatedly takes a long time to make decisions about which of his cards to play in a complex combo-based Deck. Upon investigation, it is determined he does not appear to be doing so intentionally. SP-Major: A judge assigns an SP-Minor infraction and penalty to a Duelist who has spent too much time looking through their opponent’s Graveyard. Later in the same round, the Duelist again spends too much time looking through their opponent’s Graveyard. The judge issues another Slow Play infraction and notifies the Head Judge. The Head Judge verifies the situation and upgrades the second infraction to an SP-Major. SP-Major: A judge assigns an SP-Minor infraction and penalty to a Duelist who took too long to decide which of his cards to play. During the next round, the same Duelist again receives a SP-Minor for repeatedly checking and re-checking his Set cards. The judge asks the Duelist if he has received prior penalties for Slow Play, and he replies that he has. The judge notifies the Head Judge who verifies the situation and upgrades the second infraction to an SP-Major.
+SP-Strict: A Duelist who has already incurred an SP-Major spends too much time studying their hand and their Graveyard, incurring another Slow Play infraction. The judge notifies the Head Judge, who verifies the situation and upgrades the third infraction to an SP-Strict.
+H. Unsporting Conduct (UC)
+This category covers infractions associated with inappropriate behavior from a person, usually (but not always) during a tournament.
+• Unsporting Conduct infractions are considered to be intentional.
+• Unsporting Conduct infractions may be committed by persons not enrolled in the tournament.
+• Unsporting Conduct infractions may be committed outside of a tournament.
+It is important for persons to understand what kinds of behavior are not appropriate at an event, and for judges to use common sense when investigating the infraction and administering a penalty.
+• While KDE encourages persons to have fun at a tournament, they are expected to withhold from engaging in behavior that may be offensive or that may ruin the integrity of the event.
+There are 4 sub-categories for Unsporting Conduct: Minor, Major, Severe, and Cheating, which indicate the severity of the infraction.
+1. Unsporting Conduct (UC) –Minor: (Warning)
+This penalty is appropriate when a person commits a Minor intentional infraction.
+Examples
+UC-Minor: A person leaves trash behind on his table after a Match.
+UC-Minor: A person eats or drinks at a table during a Match.
+UC-Minor: A person swears or uses inappropriate or offensive gestures during a tournament.
+UC-Minor: A person insults a player, spectator, or tournament official.
+UC-Minor: A person fails to follow the instructions of a tournament official.
+UC-Minor: A Duelist rule-sharks her opponent by calling over a judge because her opponent does not have a translation for a card. The judge notices that the Duelist has a copy of the same card in her own Deck, and she therefore knows the card text.
+UC-Minor: A person not currently engaged in a Match does not move out of the aisle when asked to do so by a tournament official.
+UC-Minor: A Duelist is using an electronic device other than a calculator, a mobile device for the offline functions of NEURON, or a device that is medically required during a Match.
+UC-Minor: A person at an event is wearing clothing or using tournament materials, etc. with offensive or explicit imagery or words. The person must remove or cover up the offensive article or risk a penalty upgrade.
+UC-Minor: A person without proper media clearance is recording video at a tournament, outside of the areas designated for media content creation.
+UC-Minor: A Duelist appeals a floor judge before the floor judge has finished answering the judge call.
+UC-Minor: A Duelist requests an inappropriate penalty for an infraction committed by his opponent, rather than letting a judge assess the situation and apply a correct penalty.
+UC-Minor: A person makes a deliberately unfair trade with a less experienced player.
+UC-Minor: A person’s lack of good hygiene negatively impacts the event.
+UC-Minor: A Duelist demands that a specific judge answer his judge call or refuses to accept the judge who does answer his judge call.
+UC-Minor: A person violates the buying/selling policy at a venue. In addition to the Unsporting Conduct penalty, the person may be required to leave the venue. This does not apply to a person who attends the event with the intention of violating the buying/selling policy at the venue.
+UC-Minor: While resolving a search effect that adds a card from his Deck to his hand, a Duelist removes a card from his Deck and places it face-down on the field, then removes a second card to evaluate his decision before adding a card to his hand. His opponent calls a judge and insists that the Duelist must use the first card even though it was not added to the Deck.
+2. Unsporting Conduct (UC) –Major: (Game Loss)
+This penalty is appropriate when a person commits a Major intentional infraction.
+Examples
+UC-Major: A person uses profanity towards another person.
+UC-Major: A Duelist throws over a chair in anger after losing a Match.
+UC-Major: A Duelist refuses to sign or rips up a Match Result Slip.
+3. Unsporting Conduct (UC) –Severe: (Disqualification)
+This penalty is appropriate when a person commits a Severe intentional infraction.
+• UC– Severe and UC – Cheating are the most serious penalties a Head Judge can give.
+• UC-Severe infractions do not have to take place at a tournament.
+• A person who is not currently enrolled in a tournament is not exempt from the Disqualification penalty. If the infraction warrants a Disqualification, the Head Judge may opt to enroll that person specifically for the purposes of Disqualification – this is useful if a severe infraction is committed by a spectator or someone else who was not originally enrolled in the tournament.
+• A Duelist who has already dropped may also be reinserted into the tournament, in order to be disqualified.
+The Head Judge will conduct an investigation of the infraction and may collect statements from the person and all parties involved, describing the infraction in detail.
+o These statements should be included in an official Disqualification report form, which should be sent to the KDE Penalty Committee.
+o Official Tournament Stores (OTS) can download a copy of the Disqualification form from the OTS Portal.
+Examples
+UC-Severe: A person writes on or otherwise damages or defaces tournament or venue property.
+UC-Severe: A person physically or verbally assaults or threatens another person.
+UC-Severe: A person makes a racial or sexual slur against another person.
+UC-Severe: A person intentionally misgenders another person.
+UC-Severe: A person steals or assists a person who steals an item or items.
+UC-Severe: A person severely or repeatedly harasses another person.
+UC-Severe: A person posts a video accusing another person of cheating.
+UC-Severe: A person enters an event with masking requirements and refuses to comply with the requirements.
+UC-Severe: A person submits fraudulent proof of vaccination.
+UC-Severe: A person promotes actions that are against tournament policy, such as creating a video to demonstrate how to manipulate a Deck while shuffling.
+UC-Severe: A person behaves inappropriately on camera at a Livestreamed event.
+UC-Severe: A person attends a Sanctioned event while intoxicated or under the influence of any substance that may be illegal on a local, state, or federal level. If a substance is legal at the state level but illegal on the federal level, the substance is not allowed at the event.
+UC-Severe: A person brings a prohibited item to a Sanctioned or Official event that is not allowed via that event’s FAQ or is illegal on a local, state, or federal level. If an item is legal at the state level but illegal on the federal level, the item is not allowed at the event. If an item is prohibited in the FAQ, the item is not allowed at the event regardless of state or federal laws.
+UC-Severe: A person attends a Sanctioned event that prohibits buying and selling items with the intent to buy and/or sell items with other people rather than an approved vendor.
+4. Unsporting Conduct (UC)—Cheating: (Disqualification)
+This penalty is appropriate when a person is caught cheating at an event.
+• Unsporting Conduct – Cheating and Unsporting Conduct – Severe are the most serious penalties a Head Judge can give.
+• UC-Cheating infractions do not have to occur at a tournament.
+• KDE shows no tolerance towards cheating and takes this infraction very seriously.
+• Cheating includes, but is not limited to, intentionally misrepresenting the Game State, or intentionally violating rulings or tournament polices.
+• It also includes reporting inaccurate information or lying to tournament officials during an investigation.
+• Bribery and collusion are considered to be cheating.
+Examples
+UC-Cheating: (Altering the Deck) A Duelist adds or removes cards to/from their Sealed pack card pool during Sealed play.
+UC-Cheating: (Bribery) A Duelist offers their opponent money, booster packs, or any compensation in exchange for the win.
+UC-Cheating: (Collusion) A Duelist or Duelists agree to intentionally Draw a Match.
+UC-Cheating: (Collusion) A Duelist accepts a bribe in exchange for a concession, deliberately losing a Match, falsifying a Match Result Slip, misrepresenting the Game State, etc.
+UC-Cheating: (Illegally Determining a Match Result) A Duelist rolls a die to determine a Match winner.
+UC-Cheating: (Illegally Determining a Match Result) Duelists agree to end a Match in a Draw.
+UC-Cheating: (Intentional Draw) A Duelist intentionally draws an extra card from his Deck while his opponent is not looking.
+UC-Cheating: (Intentionally Marking Cards) A Duelist intentionally marks a card or cards in their Deck.
+UC-Cheating: (Lying to a Tournament Official) When asked if they have received any previous penalties for an infraction, a Duelist who has received previous penalties lies and says they have not.
+UC-Cheating: (Misrepresenting the Game State) A Duelist intentionally conceals part of her field in an attempt to influence the opponent’s gameplay decisions.
+UC-Cheating: (Misrepresenting the Game State) A Duelist intentionally withholds information on how a card works to trick the opponent into revealing additional information, to gain an unfair advantage.
+UC-Cheating: (Misrepresenting the Game State) A Duelist refuses to answer a question that is Public Knowledge.
+UC-Cheating: (Misrepresenting the Game State) A Duelist notices markings on his opponent’s sleeves but waits until he is about to lose to notify a judge, in hopes of getting his opponent a Game Loss.
+UC-Cheating: (Misrepresenting the Game State) A Duelist deliberately shifts the position of a card on the field in order to influence a Link Summon.
+UC-Cheating: (Outside Interference in a Match) A spectator deliberately sends signals to a Duelist during a Match, to convey information about the opponent’s cards. Judges will need to investigate before deciding if the Duelist to whom the signal was sent is also cheating.
+UC-Cheating: (Stalling) A Duelist intentionally plays slowly, in order to enter End of Round Match Procedure.
+UC-Cheating: (Stalling) A Duelist intentionally takes three minutes to side, knowing there are less than three minutes in the round, to prevent the next game from starting.
+UC-Cheating: (Stalling) A Duelist refuses to change phases in the Game, in order to enter End of Round Match Procedure.
+UC-Cheating: (Tournament Fraud) A Duelist deliberately enters a tournament using a name or ID number that is not their own.
+UC-Cheating: (Tournament Fraud) A Duelist falsifies a Match Result Slip.
+UC-Cheating: (Tournament Fraud) A Duelist alters the results of the Match after the Match has officially concluded.
+V. Disqualification Review
+Persons who have been Disqualified from an event are subject to review by the KDE Penalty Committee, to determine if further penalties will be assigned.
+• Disqualified persons are responsible for filling out a Disqualification Form at the event, which provides them with the opportunity to tell their side of the story.
+• Disqualified persons should provide as much detail as possible about the infraction and the investigation and ensure their contact information is accurately recorded.
+• Refusing to complete a Disqualification Form or provide accurate personal information will not prevent the Disqualification from taking place.
+• Disqualification reports will also be collected from the Head Judge, and any opponents, spectators, or other tournament officials who were involved or witness to the incident. Authors of Disqualification reports may be contacted by KDE-US for further detail or clarification about the incident.
+Disqualification reports will be reviewed by the KDE Penalty Committee, and persons will be contacted with the committee’s findings.
+• In some instances, no further action will be considered necessary.
+• In others, the person may receive the additional penalty of being suspended from KDE’s Organized Play program.
+VI. Suspension and Suspended Persons
+A. Suspension for Infractions Occurring at Sanctioned Events
+Suspended Persons who have provided a valid e-mail address with their Disqualification paperwork will be notified of their suspension, along with the date on which they may apply for reinstatement into the KDE Organized Play program.
+Suspended Persons who have refused or neglected to provide a valid e-mail address with their Disqualification paperwork will not be exempt from being Suspended; they will be unable to receive notice of their Suspension.
+• Persons who are suspended from KDE Organized Play will be included on the Suspended Persons list.
+• A Suspended Person may not participate in or attend any Sanctioned or Official KDE Organized Play event, until such a time as they have been reinstated as a person in good standing. This includes (but is not limited to) playing, spectating, judging, etc.
+o This restriction includes all Tiers of Organized Play.
+• Suspended Persons will not automatically be reinstated into KDE Organized Play.
+• On or after the date on which they are eligible for reinstatement, Suspended Persons must contact the KDE Penalty Committee at us-penalty@konami.com and request reinstatement.
+• Suspended Persons will be notified whether or not they have been reinstated by the KDE Penalty Committee, once their request has been fully reviewed.
+Even after the eligibility date has passed, persons are still considered to be suspended until they have done both of the following:
+1. Applied for reinstatement by emailing the KDE Penalty Committee to request reinstatement
+2. Received an email notification from KDE confirming that they are once again a person in good standing.
+Persons with questions about their status as a Suspended Person and/or person in good standing may contact the KDE Penalty Committee at us-penalty@konami.com.
+They should include their full name and CARD GAME ID with all inquiries.
+B. Suspension for Infractions Outside of Sanctioned or Official Events
+An Unsporting Conduct – Severe or Unsporting Conduct – Cheating infraction does not have to have been committed or discovered at a Sanctioned or Official event, in order to result in a Suspension.
+• KDE reserves the right to suspend persons from KDE’s Organized Play program for infractions not connected to a specific Sanctioned event, as long as the infraction impacts or connects to a Sanctioned event, in the past, present, or future.
+• In these instances, Persons do not need to have been disqualified at a Sanctioned or Official event in order to warrant additional penalties from the KDE Penalty Committee.
+• Persons who are suspended for these reasons will be included on the Suspended Persons list.
+These include but are not limited to:
+• Severe or ongoing harassment of another person
+• Retaliating against or harassing a judge or other tournament official
+• Cyberbullying
+• Creating online content targeting or harassing another person
+• Appearing on a Sex Offender registry
+• Being arrested or criminally charged
+• Making threats
+• Impersonating a KONAMI employee
+• Publicizing privileged information
+o This includes, but is not limited to, publicizing or otherwise sharing unauthorized information about product that has not been released.
+• Publicizing or otherwise profiting from stolen or leaked product or images
+• Admitting to cheating, theft, etc., at a Sanctioned or Official event after the fact
+• Counterfeiting cards, accessories, or other items produced or licensed by KONAMI
+Persons suspended for these infractions who have available contact information will be notified of their suspension, along with the date on which they may apply for reinstatement into the KDE Organized Play program.
+• A Suspended Person may not participate in or attend any Sanctioned or Official KDE Organized Play event, until such a time as they have been reinstated as a person in good standing.
+• Suspended Persons will not automatically be reinstated into KDE Organized Play.
+• On or after the date on which they are eligible for reinstatement, Suspended Persons must contact the KDE Penalty Committee at us-penalty@konami.com and request reinstatement.
+• Suspended Persons will be notified whether or not they have been reinstated by the KDE Penalty Committee, once their request has been fully reviewed.
+Even after the eligibility date has passed, persons are still considered to be suspended until they have done both of the following:
+1. Applied for reinstatement
+2. Received a notification from KDE confirming that they are once again a person in good standing.
+Persons with questions about their status as a Suspended Person and/or person in good standing may contact the KDE Penalty Committee at us-penalty@konami.com.
+They should include their full name and CARD GAME ID with all inquiries.
+VII. Contact Information
+For questions please e-mail:
+Region E-Mail
+North America (United States & Canada)
+us-opsupport@konami.com
+Latin America and the Caribbean
+la-opsupport@konami.com
+KDE Penalty Committee
+us-penalty@konami.com
