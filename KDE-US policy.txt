@@ -825,7 +825,7 @@ The following information is considered to be Private Knowledge, unless a card e
 • All cards that are face-down, even if the cards have previously been face-up
 • The cards in either Duelist’s hand
 • Which card(s) were searched, Set, Summoned, destroyed, banished, activated, or Targeted by an effect during a previous turn
-• Information printed on any card that was searched, Set, Summoned, destroyed, banished, activated, or Targeted by an effect during the current turn
+• Information printed on any card that was searched, Set, Summoned, destroyed, banished, activated, or Targeted by an effect during a previous turn
 Examples:
 Private Knowledge cannot be revealed: A Duelist may not reveal that he has Honest in his hand unless he is legally activating the card.
 Private Knowledge cannot be revealed: A Duelist may not reveal his Set Mirror Force unless he is legally activating the card.
