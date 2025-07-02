@@ -206,12 +206,9 @@ Judges may not wear official KDE-US Judge Program judge shirts when they are not
 • Judges are required to step in if they observe any violation of the rules or game play – judges do not need to wait for Duelists to call for assistance.
 • Judges should be careful not to “coach” a Duelist or reveal information on Private Knowledge when responding to questions.
 • Judges should answer questions about cards in the Duelist’s hand or on the field, regarding:
-o
-Game mechanics
-o
-The legality of the activation of an effect
-o
-Card text
+o Game mechanics
+o The legality of the activation of an effect
+o Card text
 • Judges should be careful not to reveal information about anything considered to be Private Knowledge when answering questions.
 • Judges do not need to wait for the Duelist to attempt an action to answer any of the above questions and should not instruct Duelists to attempt an action before answering their question.
 Should be answered:
@@ -230,14 +227,10 @@ Should be answered: Duelist A has Gozen Match and Thunder Dragon Titan on the fi
 In Duelist B’s Main Phase he calls for a judge. Duelist B shows his hand to the judge and asks, “If I use this on his monster, but it does not get destroyed, can I still destroy 1 Spell/Trap on the field?”
 Without revealing the card in question or giving a yes/no answer, the Judge should quickly explain Problem-Solving Card Text conjunctions to the Duelists, and how those conjunctions are used to determine how the effects will resolve.
 • Judges should not answer questions that would:
-o
-Involve a discussion of cards not in the Duelist’s hand or on the field
-o
-Provide Duelists with specific strategy advice
-o
-Instruct a Duelist how best to play their cards
-o
-Reveal Private Knowledge
+o Involve a discussion of cards not in the Duelist’s hand or on the field
+o Provide Duelists with specific strategy advice
+o Instruct a Duelist how best to play their cards
+o Reveal Private Knowledge
 Should not be answered: Examples:
 Should not be answered: Duelist A has a face-up Beatrice, Lady of the Eternal on the field. Duelist B has a set Infinite Impermanence, Sky Striker Mecha - Widow Anchor in the hand, and three or more Spell Cards in their Graveyard. On Duelist B’s turn, Duelist A activates the effect of Beatrice, Lady of the Eternal.
 Duelist B calls for a judge and shows them the cards in question. She asks if she would be able to use Sky Striker Mecha - Widow Anchor on Beatrice, Lady of the Eternal after Infinite Impermanence resolves.
@@ -252,14 +245,12 @@ The judge should inform Duelist B that she cannot answer questions about cards t
 When a Duelist calls for a judge, the judge should:
 • Approach the table
 • Listen carefully to the question
-o
-If both Duelists try to talk at once, ask for the turn player to speak first. Assure the opponent they will also get a chance to speak.
+o If both Duelists try to talk at once, ask for the turn player to speak first. Assure the opponent they will also get a chance to speak.
 • Ask for additional information if necessary, seeking confirmation from all Duelists involved
 • Make a decision
 • Issue the ruling
 • Duelists have the right to appeal a ruling or policy decision made by a floor judge. If either Duelist wishes to appeal, the judge should notify the Head Judge immediately.
-o
-If the initial decision was made by the Head Judge, or an Assistant Head Judge (Tier 3 events), their decision is final and cannot be appealed.
+o If the initial decision was made by the Head Judge, or an Assistant Head Judge (Tier 3 events), their decision is final and cannot be appealed.
 Judges should stay current with rulings and cards as they are released. Judges are also responsible for knowing policy documents and should keep themselves informed and well-versed in new documents as they are made available.
 Judges should actively seek out additional training and assist fellow judges in doing the same.
 Judges are encouraged to complete certification tests to assess their ability and knowledge.
@@ -355,8 +346,7 @@ Duelists can check relevant event FAQs posted on www.yugioh-card.com/en/ for mor
 D. Tournament Materials
 You must bring a tournament legal Deck (to Constructed events), as well as extra card sleeves, paper and pens/pencils to track scores and fill out Match Result slips, and any dice, coins, counters, tokens, etc., that your Deck requires.
 • Calculators may not be used to track Life Points.
-o
-You may use a calculator to assist with the math involved in adding or subtracting Life Points, but you must keep a paper record of all Life Point changes to help resolve any disputes.
+o You may use a calculator to assist with the math involved in adding or subtracting Life Points, but you must keep a paper record of all Life Point changes to help resolve any disputes.
 • The Dueling Calculator and Duel Log features on NEURON may be used as the primary method to track Life Points but the Life Points but both Duelists must also keep a paper record of all Life Point changes to help resolve any disputes.
 In addition to tournament supplies, you must bring the appropriate cost of registration (if any), your CARD GAME ID number, and personal identification.
 You are responsible to ensure that any dice, coins, counters, or tokens you bring to the event meet tournament-legal standards.
@@ -404,12 +394,9 @@ You can find the current version of the Official KDE-US Tournament Infractions a
 • Persons may not bring any items into the tournament venue that are prohibited by law in their area (local, state, or federal). In addition, unlawful items/transactions, weapons of any kind, and substance drugs (whether or not they are legal on a local, state, and/or federal level), and anything prohibited in the event FAQ are not allowed at Sanctioned/Official events. Persons who bring any such items to a tournament venue will incur penalties, including Disqualification and removal from the event, and risk suspension from KDE Organized Play.
 • The use of electronic and/or vapor cigarettes is not permitted on the tournament floor at any Sanctioned/Official events, or in areas designated for tournament attendees.
 • The following electronic devices may be used during a Match, for the following uses only:
-o
-Calculators may be used to assist with Life Point calculation, and not as the sole means of tracking Life Points.
-o
-Smartphones may be used only for NEURON. You may not text, talk, access the internet, look at files on your phone, etc. during a Match. When using a smartphone during a match, you must keep the phone screen fully visible to your opponent so they can confirm what actions are being taken.
-o
-Smart watches or similar items which can send or receive messages must have messaging functions disabled during a Match.
+o Calculators may be used to assist with Life Point calculation, and not as the sole means of tracking Life Points.
+o Smartphones may be used only for NEURON. You may not text, talk, access the internet, look at files on your phone, etc. during a Match. When using a smartphone during a match, you must keep the phone screen fully visible to your opponent so they can confirm what actions are being taken.
+o Smart watches or similar items which can send or receive messages must have messaging functions disabled during a Match.
 • Other electronic devices are prohibited for use during a Match. Duelists with a medical necessity for an electronic device other than a calculator should speak with the Head Judge prior to the start of the tournament.
 • You may not wear headphones or earbuds during a Match.
 • You may not eat or drink on tournament tables, including between rounds. You may keep water etc. with you, but containers must have lids and cannot be kept on the table.
@@ -450,12 +437,10 @@ Your clothing should be clean.
 L. Livestreamed Events
 Some events will feature Livestream matches. Duelists who participate in a match shown on a Livestream must agree to:
 • Use only an officially licensed Yu-Gi-Oh! TCG Game Mat or non-branded Game Mat, and officially licensed Yu-Gi-Oh! TCG card sleeves or non-branded card sleeves.
-o
-If sleeves and/or a Game Mat are provided for use during the stream, you must use the items provided.
+o If sleeves and/or a Game Mat are provided for use during the stream, you must use the items provided.
 • Any tournament materials (including dice, counters, tokens, etc.) needed should be reviewed for acceptability prior to the start of the match.
 • Clothing, accessories, or other items featuring logos or intellectual property from brands other than Yu-Gi-Oh! TCG cannot be shown on livestream.
-o
-Clothing with branding from Official Tournament Stores is acceptable, provided it does not fall under the items prohibited in “Unacceptable Behavior.”
+o Clothing with branding from Official Tournament Stores is acceptable, provided it does not fall under the items prohibited in “Unacceptable Behavior.”
 • Cooperate with tournament officials and livestream technicians to set up and stream the match.
 Depending on the event, there may be other requirements. Please see event FAQs and/or speak to a tournament official if you have questions about appearing on livestream.
 III. Tournament Information
@@ -499,12 +484,10 @@ Any changes made to the tournament round will be announced before the start of t
 For Single-Elimination playoff rounds, the time limit may be increased at the discretion of the Head Judge, but only if the increase is announced before the start of the Playoff Rounds.
 D. Number of Duels
 • Yu-Gi-Oh! TCG matches are run in a best-of-three Duels format.
-o
-It is possible to play more than three Duels in a Match if Duels end in a Draw before the end of the round.
+o It is possible to play more than three Duels in a Match if Duels end in a Draw before the end of the round.
 • The first Duelist to win two Duels is declared the winner of the Match.
 • If a Duelist loses two Duels, they are considered to have lost the Match.
-o
-If both Duelists have one Game Loss in a Match and both receive a simultaneous Game Loss, the Match is considered a Double Loss, which means neither Duelist will receive a Win for the Match.
+o If both Duelists have one Game Loss in a Match and both receive a simultaneous Game Loss, the Match is considered a Double Loss, which means neither Duelist will receive a Win for the Match.
 E. Sanctioning
 Only OTS and approved TOs can host Sanctioned Yu-Gi-Oh! TCG tournaments.
 All Sanctioned events should be created via KCGN and pre-approved by KDE-US at least one (1) business day before the event is scheduled to take place.
@@ -600,11 +583,9 @@ Some events will offer Online Registration. The Registration form and Deck List 
 • You will register and pay for the event online. Please read through the registration information to be sure you understand the process.
 • Depending on the event, your Deck List may be due at registration, or you may have a later deadline for submission. Read the event FAQs to be sure.
 • Event staff may reach out after you complete the online registration process to verify information.
-o
-Make sure you enter your email address and phone number correctly and monitor them, so you do not miss any important communications.
+o Make sure you enter your email address and phone number correctly and monitor them, so you do not miss any important communications.
 • If you are registering online for an in-person event, you may be required to check-in in person prior to the start of the event, to confirm you have arrived and to receive any tournament materials.
-o
-If you are not sure what will be required, read the event FAQs or contact the TO.
+o If you are not sure what will be required, read the event FAQs or contact the TO.
 For events using in-person registration:
 To register in person using a paper Registration form, you’ll need a Registration form, a valid form of ID, your CARD GAME ID number if you have one already, and the cost of registration for the tournament. You can get a Registration form at the event, or you can get one to print at home before the tournament by clicking on this link:
 • https://www.yugioh-card.com/en/events/forms/KDE_RegistrationSheet.pdf
@@ -708,10 +689,8 @@ You may choose to use plastic card sleeves to protect your cards during the cour
 • Top loaders or other hard cases cannot be used as card sleeves.
 You may choose to use a second sleeve (double sleeving) on each of your cards, provided you abide by the following additional rules:
 • One of the additional sleeves must be clear on both sides. The clear sleeve may have a brand, watermark, or artwork so long as it does not interfere with the readability of the card.
-o
-It does not matter which of the sleeves (outer or inner) is clear on both sides.
-o
-Clear sleeves with a tint are allowed only if they do not interfere with the readability of the front of a card. Check with the Head Judge of your event to determine whether your usage of these types of clear sleeves is acceptable.
+o It does not matter which of the sleeves (outer or inner) is clear on both sides.
+o Clear sleeves with a tint are allowed only if they do not interfere with the readability of the front of a card. Check with the Head Judge of your event to determine whether your usage of these types of clear sleeves is acceptable.
 • The additional clear sleeve may not have a holographic pattern on the front of the sleeve.
 • The additional clear sleeve must be placed onto the card opposite to the regular sleeve, so the card is “sealed” inside of the two sleeves.
 • You may only have one card in each pair of sleeves.
@@ -865,12 +844,10 @@ Verification is not allowed: A Duelist activates the effect of Mystic Tomato. Up
 Verification directed by card effect: Duelist A activates the search effect of Salamangreat Balelynx, searches her Deck for Salamangreat Sanctuary, then shows it to her opponent before adding it to her hand.
 You may not ask a judge to search or verify your opponent’s hand, Deck contents, or face-down cards unless there is supportable evidence that your opponent may be cheating or that there may be a valid Deck-related issue.
 • If you believe there is supportable evidence, stop playing and call for a judge.
-o
-Duelists should not perform the search or verification themselves.
+o Duelists should not perform the search or verification themselves.
 • Explain the situation to the judge, who may ask additional questions.
 • The judge will determine whether they should search or verify your opponent’s hand, Deck, or face-down cards.
-o
-The judge must not reveal information considered Private Knowledge to either Duelist.
+o The judge must not reveal information considered Private Knowledge to either Duelist.
 Not appropriate for a judge to verify:
 Examples:
 Not appropriate for judge to verify: Duelist A activates Mind Crush and declares Effect Veiler. Duelist B says she does not have Effect Veiler in her
@@ -891,12 +868,10 @@ In a Controlled Loop, the Duelist should proceed as follows:
 Perform the loop once, to notify your opponent that you are in a loop.
 2.
 Using a whole number (positive value), inform your opponent how many times you intend to repeat the loop.
-o
-If a die roll is involved, the net gain of which does not affect the loop continuing, then the number of times you can repeat the loop is 1. Roll the die once only, there is no need to keep rolling the die as the loop will not be repeated.
+o If a die roll is involved, the net gain of which does not affect the loop continuing, then the number of times you can repeat the loop is 1. Roll the die once only, there is no need to keep rolling the die as the loop will not be repeated.
 ▪
 Even if the outcome of the loop is the same no matter the result of the die roll, the loop cannot be performed more than 1 time.
-o
-If the start point and end point of a turn will be the same, but the order of the cards played may change; perform the loop once, explain that no matter what order the actions are performed, the result will be the same, then inform your opponent how many times you intend to repeat the loop. There is no need to keep performing the actions.
+o If the start point and end point of a turn will be the same, but the order of the cards played may change; perform the loop once, explain that no matter what order the actions are performed, the result will be the same, then inform your opponent how many times you intend to repeat the loop. There is no need to keep performing the actions.
 3.
 If your opponent wishes to activate an effect, they may do so at any interval up to the whole number listed above, as long as they are legally able to activate an effect.
 4.
@@ -946,12 +921,10 @@ In Tier 3 or higher events, an appeal may be taken by an Assistant Head Judge in
 Q. Conceding a Game or Match
 You may concede a Game or Match at any time up until the point that the Game or Match has concluded, during either Duelist’s turn, but only by meeting these requirements:
 • Conceding a Game or Match is not specifically prohibited (in some instances, such as the World Championship, conceding matches may require additional steps or permissions).
-o
-If you are unsure of the process, please ask a judge.
+o If you are unsure of the process, please ask a judge.
 • You may not offer or accept any sort of compensation in exchange for conceding a Game or Match.
 • You may not concede a Game or Match after the Game or Match has already concluded.
-o
-This means that once a Game or Match result is reached (a win, a loss, or a draw), that result cannot be changed, even if a Match Result Slip has yet to be signed.
+o This means that once a Game or Match result is reached (a win, a loss, or a draw), that result cannot be changed, even if a Match Result Slip has yet to be signed.
 Duelists who concede in exchange for money, prizes, or other incentives are guilty of Bribery and/or Collusion, which is a violation of the Official KDE-US Tournament Infractions and Penalties Policy Guidelines.
 Duelists who change the result of a Game or a Match are guilty of Altering the Result of a Game or Match, which is a violation of the Official KDE-US Tournament Infractions and Penalties Policy Guidelines. (See Section T. Altering the Result of a Game or Match for additional information.)
 Conceding is Allowed:
@@ -1002,13 +975,10 @@ If Match Results are being reported in NEURON and a Duelist does not have access
 You should consult a Tournament Official if you are unsure of the proper procedure for reporting your Match Result.
 • Match Results cannot be altered once they have been submitted.
 • Verify the Match Result carefully before submitting it, including whether a Duelist is opting to drop from the event.
-o
-If Match Results are being reported in NEURON, Duelists can drop themselves from NEURON. If a Duelist does not have access to a smart device with NEURON installed, they should instead report to the scorekeeper that they wish to drop from the event.
+o If Match Results are being reported in NEURON, Duelists can drop themselves from NEURON. If a Duelist does not have access to a smart device with NEURON installed, they should instead report to the scorekeeper that they wish to drop from the event.
 • Match Results for completed Matches must be submitted within 5 minutes of the end of the Round.
-o
-If a Match Result for a completed Match is not submitted within 5 minutes of the end of the round, the Duelist responsible for reporting the Match Result will incur a Procedural Error – Major penalty, consisting of a Game Loss.
-o
-This Game Loss will be applied to the next round.
+o If a Match Result for a completed Match is not submitted within 5 minutes of the end of the round, the Duelist responsible for reporting the Match Result will incur a Procedural Error – Major penalty, consisting of a Game Loss.
+o This Game Loss will be applied to the next round.
 B. End of Match Procedures
 Sometimes a Match will not be finished when the time ends for a round. If this happens, it is both Duelists’ responsibility to note whose turn it is when time is called. Duelists who require assistance with the End of Match procedures should call for a judge, either by raising their hand at an in-person event or tagging a Judge as instructed at a Remote Duel event. The judge should be notified that the Match is ongoing and whose turn it is. The judge may or may not stay to supervise the End of Match procedure but should ensure that both Duelists understand the following procedures.
 End of Match procedures should follow these three (3) rules:
@@ -1016,17 +986,12 @@ Rule #1: If time is called while Duelists are in the middle of a Game, the curre
 Rule #2: Once the current Game has concluded with a decision, determine the winner of the Match by determining the number of Game Wins (or Game Losses) each Duelist has for the current Match. The Duelist with the most Game Wins will win the Match.
 Swiss Rounds: If both Duelists have the same number of Game Wins, or if time was called in between games of a Match when both Duelists had the same number of Game Wins, then the Match is a Draw.
 Single-Elimination Rounds: If both Duelists have the same number of Game Wins, or if time is called in between Games of a Match while both Duelists have the same number of Game Wins, they will begin a new Duel with specific guidelines.
-o
-Neither Duelist may use his or her Side Deck. If time was called in between Games of a Match and at least one Duelist has already accessed his or her Side Deck, then both Duelists may use their Side Deck.
-o
-Duelists must use a random method (die roll, coin flip, etc.) to determine who will go first. The winner of the random method chooses who will go first.
-o
-The Duel will continue for a total of four (4) turns, two (2) turns for each Duelist, unless a Duelist manages to win the Duel before the four (4) turns have concluded.
+o Neither Duelist may use his or her Side Deck. If time was called in between Games of a Match and at least one Duelist has already accessed his or her Side Deck, then both Duelists may use their Side Deck.
+o Duelists must use a random method (die roll, coin flip, etc.) to determine who will go first. The winner of the random method chooses who will go first.
+o The Duel will continue for a total of four (4) turns, two (2) turns for each Duelist, unless a Duelist manages to win the Duel before the four (4) turns have concluded.
 • A “turn” is defined as the start of the Draw Phase until the end of the End Phase for a single Duelist.
-o
-Once the four (4) turns are completed, Life Point totals are compared and the Duelist with the highest Life Point total wins the Match.
-o
-If both Duelists’ Life Points are the same after the four (4) turns are completed, then play will continue on a turn-by-turn basis, with the Duelist with the most Life Points at the end of a turn being declared the winner of that Game.
+o Once the four (4) turns are completed, Life Point totals are compared and the Duelist with the highest Life Point total wins the Match.
+o If both Duelists’ Life Points are the same after the four (4) turns are completed, then play will continue on a turn-by-turn basis, with the Duelist with the most Life Points at the end of a turn being declared the winner of that Game.
 Rule #3: If a win condition occurs during End of Match Procedures, that Duelist wins the current Game.
 Keeping these three (3) rules in mind, please follow these instructions when proceeding to End of Match procedures:
 1.
@@ -1162,8 +1127,7 @@ You may not add cards to your Main Deck from your Side Deck before the first Due
 If the first Duel in a Match is decided by a Game Loss penalty before the Duel has begun, neither Duelist may use their Side Decks before the second Duel of the match.
 • You must perform all Side Deck actions in a timely manner, including card selection and shuffling.
 • You have less than three (3) minutes to perform these tasks.
-o
-Please note that this time limit is the maximum amount of time to be utilized in the Side Deck process if you plan on Side Decking for your next Duel and does not guarantee you the full three (3) minutes simply to pass the time.
+o Please note that this time limit is the maximum amount of time to be utilized in the Side Deck process if you plan on Side Decking for your next Duel and does not guarantee you the full three (3) minutes simply to pass the time.
 D. Extra Deck
 You may have an Extra Deck of up to 15 Fusion, Synchro, Xyz, or Link Monsters.
 Fusion, Synchro, Xyz, or Link Monsters are never kept in the Main Deck.
