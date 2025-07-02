@@ -869,8 +869,7 @@ Perform the loop once, to notify your opponent that you are in a loop.
 2.
 Using a whole number (positive value), inform your opponent how many times you intend to repeat the loop.
 o If a die roll is involved, the net gain of which does not affect the loop continuing, then the number of times you can repeat the loop is 1. Roll the die once only, there is no need to keep rolling the die as the loop will not be repeated.
-▪
-Even if the outcome of the loop is the same no matter the result of the die roll, the loop cannot be performed more than 1 time.
+▪ Even if the outcome of the loop is the same no matter the result of the die roll, the loop cannot be performed more than 1 time.
 o If the start point and end point of a turn will be the same, but the order of the cards played may change; perform the loop once, explain that no matter what order the actions are performed, the result will be the same, then inform your opponent how many times you intend to repeat the loop. There is no need to keep performing the actions.
 3.
 If your opponent wishes to activate an effect, they may do so at any interval up to the whole number listed above, as long as they are legally able to activate an effect.

@@ -7,7 +7,7 @@ for f in os.listdir():
         new_file_content = []
         prepend_next_line = ""
         for line in old_file_content:
-            if line == "•\n" or line == "o\n":
+            if line == "•\n" or line == "o\n" or line == "▪\n":
                 prepend_next_line = line.replace("\n", " ")
             else:
                 line = prepend_next_line + line
