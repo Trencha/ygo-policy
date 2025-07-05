@@ -277,8 +277,7 @@ Spectators must abide by the following rules:
 • Spectators must be prepared to move if their presence blocks judge access, throughways, fire exits, or any other paths identified by tournament staff.
 • Spectators will be asked to move if their presence is distracting to any of the Duelists. If a judge or tournament official instructs a spectator to move, they must comply.
 J. Media
-1.
-Official Media
+1. Official Media
 Members of official media who wish to attend any Sanctioned or Official event to create written, photographic, audio, or video content must follow these rules:
 • Media pass requests must be approved and fulfilled by KDE-US.
 • Media should be prepared to provide evidence of their association with a news outlet or reputable entity in the gaming industry prior to the event.
@@ -306,8 +305,7 @@ Equipment
 • All equipment must be used in a manner that does not interfere with the tournament, impede traffic flow, or create a safety hazard.
 • Media must always keep their equipment on their person - equipment may not be left unattended or in hallways/areas with heavy foot traffic.
 Any media member wishing to attend an event, should contact teamygo@hillandknowlton.com for more information.
-2.
-Fan-Created Content
+2. Fan-Created Content
 Select Tier 3 events may include a Fan Content Area, where event attendees can create photo and video content (interviews, Deck profiles, etc.) for social media use. Usage rules apply for the Fan Content Area.
 • Users must sign a form and agree to abide by the Fan Content Area requirements.
 • Users may be asked to sign an additional Code of Conduct.
@@ -864,23 +862,16 @@ A “loop” is a series of actions that can be repeated. There are two kind of 
 Controlled Loops:
 Controlled loops are loops where the actions are voluntary and a Duelist controls how many times the action will repeat. The Duelist is able to stop the loop at any time by performing a legal action that does not cause the next effect on the loop to activate.
 In a Controlled Loop, the Duelist should proceed as follows:
-1.
-Perform the loop once, to notify your opponent that you are in a loop.
-2.
-Using a whole number (positive value), inform your opponent how many times you intend to repeat the loop.
+1. Perform the loop once, to notify your opponent that you are in a loop.
+2. Using a whole number (positive value), inform your opponent how many times you intend to repeat the loop.
 o If a die roll is involved, the net gain of which does not affect the loop continuing, then the number of times you can repeat the loop is 1. Roll the die once only, there is no need to keep rolling the die as the loop will not be repeated.
 ▪ Even if the outcome of the loop is the same no matter the result of the die roll, the loop cannot be performed more than 1 time.
 o If the start point and end point of a turn will be the same, but the order of the cards played may change; perform the loop once, explain that no matter what order the actions are performed, the result will be the same, then inform your opponent how many times you intend to repeat the loop. There is no need to keep performing the actions.
-3.
-If your opponent wishes to activate an effect, they may do so at any interval up to the whole number listed above, as long as they are legally able to activate an effect.
-4.
-Game play will proceed until either the whole number listed above has been reached, a win condition has been met (Life Points reach 0, unable to draw from Deck when required to do so, etc.), or until the opponent chooses to respond.
-5.
-The Duelists will not physically perform the actions to keep the loop going but simply resolve the effects accordingly.
-6.
-If any effects have been activated by the opponent to interrupt the loop, the loop will stop at that interval.
-7.
-If the Duelist controlling the loop chooses to continue with the loop after the opponent interrupted the loop, they should perform the loop once more, to ensure the loop can still be achieved, and follow these steps again.
+3. If your opponent wishes to activate an effect, they may do so at any interval up to the whole number listed above, as long as they are legally able to activate an effect.
+4. Game play will proceed until either the whole number listed above has been reached, a win condition has been met (Life Points reach 0, unable to draw from Deck when required to do so, etc.), or until the opponent chooses to respond.
+5. The Duelists will not physically perform the actions to keep the loop going but simply resolve the effects accordingly.
+6. If any effects have been activated by the opponent to interrupt the loop, the loop will stop at that interval.
+7. If the Duelist controlling the loop chooses to continue with the loop after the opponent interrupted the loop, they should perform the loop once more, to ensure the loop can still be achieved, and follow these steps again.
 • After the stated number of iterations of the loop have been resolved without action from the opponent, the Duelist may not initiate the loop again that turn unless a tangible change to the game state has occurred, such as if the opponent has taken some action that has changed the number of cards on the field/in the hands.
 Examples:
 Controlled Loop: Duelist A controls Cannon Soldier, Quillbolt Hedgehog, Glow-Up Bulb, and a face-up Imperial Iron Wall. Both Duelists have 8,000 Life Points each. Duelist A activates the effect of Cannon Soldier, Tributing Quillbolt Hedgehog to inflict 500 damage to their opponent. They then activate the effect of Quillbolt Hedgehog to Special Summon itself onto the field, in order to use it again as Tribute for the effect of Cannon Soldier. Duelist A states that they will repeat the loop sixteen times until Duelist B’s Life Points are reduced to zero.
@@ -894,14 +885,10 @@ The loop stops once this chain has resolved. If Duelist A wishes to do the loop 
 Infinite Loops:
 Infinite Loops are loops that occur involuntarily, usually from a series of mandatory Trigger Effects that meet the activation conditions for each other upon resolution or due to continuous effects that are stuck switching on and off endlessly due to a change in the game state. Since all the effects involved in an Infinite Loop must occur, there is no clear point in the game where the player can stop the loop.
 If an Infinite Loop occurs, follow these instructions:
-1.
-Perform each action in one iteration of the loop once.
-2.
-Determine if the loop will cause a victory condition (Ex: An Infinite Loop in which a Duelist draws 2 cards per iteration will eventually end in fulfilling a victory condition for one of the Duelists.)
-3.
-If so, proceed to the iteration in which the victory condition will occur and determine the winner.
-4.
-If no victory condition will be achieved, the Duelists should call a judge to determine the card that is the primary cause of the loop and send it to the Graveyard. Play will resume from that point and no penalties are assessed. Any effects that could activate as a result of the card going to the Graveyard can/will still activate accordingly.
+1. Perform each action in one iteration of the loop once.
+2. Determine if the loop will cause a victory condition (Ex: An Infinite Loop in which a Duelist draws 2 cards per iteration will eventually end in fulfilling a victory condition for one of the Duelists.)
+3. If so, proceed to the iteration in which the victory condition will occur and determine the winner.
+4. If no victory condition will be achieved, the Duelists should call a judge to determine the card that is the primary cause of the loop and send it to the Graveyard. Play will resume from that point and no penalties are assessed. Any effects that could activate as a result of the card going to the Graveyard can/will still activate accordingly.
 • If the judge determines that multiple cards primarily cause the loop, the card most recently activated should be sent to the Graveyard.
 Examples:
 Infinite Loop: Duelist A has a Set Pole Position on the field. Duelist B has a face-up Dark Magician equipped with Magic Formula and a face-up Dark Magician Girl equipped with Axe of Despair.
@@ -993,10 +980,8 @@ o Once the four (4) turns are completed, Life Point totals are compared and the 
 o If both Duelists’ Life Points are the same after the four (4) turns are completed, then play will continue on a turn-by-turn basis, with the Duelist with the most Life Points at the end of a turn being declared the winner of that Game.
 Rule #3: If a win condition occurs during End of Match Procedures, that Duelist wins the current Game.
 Keeping these three (3) rules in mind, please follow these instructions when proceeding to End of Match procedures:
-1.
-Continue with the current Phase of the Game. Once the Phase is over, stop the game.
-2.
-Determine a Game Winner at this point, with the Duelist with the most Life Points winning the Game.
+1. Continue with the current Phase of the Game. Once the Phase is over, stop the game.
+2. Determine a Game Winner at this point, with the Duelist with the most Life Points winning the Game.
 • During Swiss Rounds, if both Duelists’ Life Points are the same, the Game is a Draw. Compare Game Wins with the Duelist with the most Game Wins winning the Match. If the Game Win totals are the same, the Match is a Draw.
 • During Single-Elimination, if both Duelists’ Life Points are the same at the end of the current Phase (Step 1 above), finish the current turn. If both Duelists’ Life Points are the same at the end of the turn, then play will continue on a turn-by-turn basis, with the Duelist with the most Life Points at the end of a turn being declared the winner of that Game.
 • Match Draws cannot occur during Single-Elimination Rounds.
@@ -1027,10 +1012,8 @@ A Duelist at a Yu-Gi-Oh! Championship Series event has a tie-breaker number of 1
 On extremely rare occasions, two Duelists may finish a tournament with identical Tie-Breakers, leaving them tied for the same final standing. In KCGN Duelists with identical Tie-Breakers will be listed alphabetically, in KTS they will be listed in CARD GAME ID order.
 If time permits, the Duelists should play another Match (or single Duel if time does not permit a full Match) to determine a winner.
 In cases where there is no time for an additional Match or Duel, the Head Judge should do the following:
-1.
-If the tied Duelists have already played against each other in the tournament, the winner of that Match will take the higher final standing.
-2.
-If the tied Duelists have not already played against each other in the tournament, the Head Judge should use a random method such as a die roll to decide the final standing.
+1. If the tied Duelists have already played against each other in the tournament, the winner of that Match will take the higher final standing.
+2. If the tied Duelists have not already played against each other in the tournament, the Head Judge should use a random method such as a die roll to decide the final standing.
 • Please note this is different than randomly determining the outcome of a Match.
 VI. Tournament Infractions
 Tournament Infractions occur when a participant in an event violates tournament policy.

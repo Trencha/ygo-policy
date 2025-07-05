@@ -1,4 +1,7 @@
 import os
+import re
+
+BULLET_RE = re.compile(r"^(•|o|▪|[0-9A-Z]\.)\n$")
 
 for f in os.listdir():
     if f.endswith(".txt"):
@@ -7,7 +10,7 @@ for f in os.listdir():
         new_file_content = []
         prepend_next_line = ""
         for line in old_file_content:
-            if line == "•\n" or line == "o\n" or line == "▪\n":
+            if BULLET_RE.fullmatch(line):
                 prepend_next_line = line.replace("\n", " ")
             else:
                 line = prepend_next_line + line
